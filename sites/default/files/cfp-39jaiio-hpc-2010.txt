@@ -1,0 +1,94 @@
+39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMÁTICA - www.39jaiio.org.ar
+30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autónoma de Buenos Aires
+
+Since 1961, SADIO (Argentine Society for Informatics) organizes JAIIO (Argentine Conference of Informatics). JAIIO is one of the most relevant events for the national and regional IT sector, with participants from both industry and academia.
+
+JAIIO is organized as a series of thematic symposia including topics such as software engineering, artificial intelligence, technology, agroinformatics, high performance computing, industrial informatics, free software, law, health, information society, and a students contest.
+
+After many years, JAIIO returns to the Buenos Aires city.
+
+ _HPC 2010 - HIGH-PERFORMANCE COMPUTING SYMPOSIUM 2010_
+ 
+OVERVIEW
+Building on the great success of the first two editions of the HPC symposium in 2008 and 2009, this year's conference aims to bring together researchers, developers, and users of HPC to discuss new ideas, experiences, and problems.
+
+HPC2010 will be part of the 39th Argentine Conference of Informatics (39 JAIIO), the international conference of the Argentine Society for Informatics (SADIO), to be held in Buenos Aires, Argentina, on August 2010.
+
+The use and development of High-Performance Computing (HPC) in Latin America is steadily growing. New challenges come from the new capabilities provided by clusters, grids, and distributed systems for HPC, promoting research and innovation in this area.
+
+The main goal of HPC2010 is to provide a regional forum fostering the growth of the HPC community in Latin America through the exchange and dissemination of new ideas, techniques, and research in HPC.
+
+The symposium will feature invited talks from academy and industry, tutorials, short- and full-paper sessions presenting both mature work and new ideas in research and industrial applications.
+
+TOPICS OF INTEREST
+Suggested topics of interest include, but are not restricted to:
+ -Distributed and Grid Computing
+ -Parallel Algorithms and Architectures
+ -High Performance Applications
+ -High Performance Software Tools
+ -Virtualization in High Performance Computing
+ -Visualization and Data Management
+ -Cloud Computing
+ -Tools and Environments for High Performance System Engineering
+ -Component Technologies for High Performance Computing
+ -Parallelism and Data Sharing on Multi-core Architectures
+ -Graphics Processing Units and specialized computing elements in High Performance Computing
+ -Country-wide Grid Initiatives
+
+INSTRUCTIONS FOR AUTHORS
+Submissions of short- and full-papers must be written in English, and prepared according to Springer's LNCS style (guidelines are available at: http://www.springer.de/comp/lncs/authors.html). 
+
+Papers must not have been previously published or submitted elsewhere. 
+
+All contributions should be submitted in Ghostview-readable Postscript or PDF formats.  Submissions will be handled electronically. Further detaills will be available at: http://www.39jaiio.org.ar/hpc.
+
+The authors of accepted papers must guarantee that their paper will be presented at the symposium. At least one author of each accepted paper must be duly registered for the symposium in order for the paper to be scheduled in the papers session and to appear in the Symposium and 39 JAIIO proceedings.
+
+REGULAR FILL-LENGTH PAPERS
+Full papers must not exceed 16 pages, including name, affiliation and address of the author(s), figures, tables, and references, and an abstract of no more than 200 words. All full paper submissions will be carefully reviewed by at least two experts and returned to the author(s) with comments to ensure the high quality of accepted papers. Full papers accepted for the program will appear in the proceedings.
+
+SHORT PAPERS/EXTENDED ABSTARCTS
+Authors are invited to submit short papers (also called Extended Abstracts) for results that are too late to be submitted as regular full-length papers. Short papers must not exceed 4 pages. Short papers accepted for the program will appear in the proceedings (in short form - not expanded to full papers - and with Extended Abstract in the title) and be presented orally during the symposium (in suitably shorter speaking slots) as a regular part of the program.
+
+SYMPOSIUM INFORMATION
+Up-to-date information about the program and the symposium organization can be found at http://hpc2010.hpclatam.org
+
+IMPORTANT DATES
+Submission deadline: May, 3rd 2010
+Acceptance notification: June, 14th 2010
+Final version (camera ready) deadline: June 28th 2010
+
+VENUE INFORMATION
+
+Buenos Aires is a wonderful place:
+
+Information in Wikipedia: http://en.wikipedia.org/wiki/Buenos_aires,
+Information in Wikitralvel: http://wikitravel.org/en/Buenos_Aires_(city)
+Official government website: http://www.buenosaires.gov.ar/
+
+PROGRAM COMMITEE (to be confirmed)
+CHAIRS
+ -Marcela Printista, Universidad Nacional de San Luis
+ -Esteban Mocskos, Universidad de Buenos Aires
+
+COMMITE MEMBERS
+ -Roberto Bevilacqua, Comisión Nacional de Energia Atomica, Universidad de Buenos Aires, Universidad Nacional de San Martin
+ -Miguel Angel Cavaliere, Tenaris Siderca and Universidad de Buenos Aires
+ -Adrián Cristal, Barcelona Supercomputing Center
+ -Diego Crupnicoff, Mellanox Technologies
+ -Carlos Garcia Garino, Universidad Nacional de Cuyo
+ -Mariano Camilo González Lebrero, Universidad de Buenos Aires
+ -Gonzalo Hernández Oliva, Universidad de Chile
+ -Mariano Camilo González Lebrero, Universidad de Buenos Aires
+ -Dan Hirsch, Intel de Argentina
+ -Marcos Martins, Petroleo Brasileiro S.A.
+ -Patricia Paredes, Universidad Nacional de Cordoba
+ -Pablo Minnini, Universidad de Buenos Aires
+ -Thomas Sterling, Louisiana State University
+ -Mario Storti, Universidad Nacional del Litoral
+ -Patricia Tissera, IAFE - Universidad de Buenos Aires
+ -Mariano Vázquez, Barcelona Supercomputing Center
+ -Ricardo Medel, Intel Argentina
+
+CONTACT INFORMATION
+hpc2010 (at) hpclatam.org

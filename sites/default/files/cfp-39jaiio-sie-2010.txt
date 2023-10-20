@@ -1,0 +1,114 @@
+Disculpe si recibe este e-mail en más de una oportunidad.
+
+39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMÁTICA - www.39jaiio.org.ar
+30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autónoma de Buenos Aires
+
+SADIO, la Sociedad Argentina de Informática organiza desde hace 38 años las JAIIO (Jornadas Argentinas de Informática) integrando trabajos, investigaciones y actividades bajo un mismo evento. Las JAIIO constituyen uno de los eventos más importantes del sector informático nacional y regional, con presentaciones y exposiciones provenientes tanto de la academia como de la industria.
+
+La organización de las JAIIO contempla un conjunto de simposios separados por área temática, entre las que se incluyen: ingeniería de software, inteligencia artificial, tecnología, agroinformática, ‘high-performance computing’, informática industrial, software libre, derecho, salud, sociedad de la información, y un concurso de trabajos estudiantiles. Luego de varios años, las JAIIO vuelven a tener sede en la Ciudad de Buenos Aires.
+
+SIE 2010 - 4º SIMPOSIO ARGENTINO DE INFORMÁTICA EN EL ESTADO
+http://www.39jaiio.org.ar/SIE
+
+De acuerdo con el objetivo de comunicar, discutir e integrar el Sector Público, Academia e Industria en la gestión de los sistemas de información,  el Cuarto Simposio de Informática en el Estado ( SIE 2010), en el marco de las 39 Jornadas Argentinas de Informática (39 JAIIO), es un nueva oportunidad de repetir el éxito de las convocatorias anteriores.
+ 
+La demanda actual desde el Estado, donde la interoperabilidad  es uno de los requerimientos más reclamados y donde se plantea la necesidad de profesionalizar al gestor de la información con la preparación multidisciplinar que hoy los ambientes exigen, este simposio es el lugar indicado para conocer diferentes iniciativas, conocer el arduo camino que condujo a una implementación exitosa, o relacionarse con otros profesionales involucrados en proyectos similares.
+ 
+Es nuestra meta que SIE 2010 sea el espacio de aprendizaje y transferencia de conocimiento sobre la gestión de la informática en el Estado, con la participación de las instituciones estatales, la Academia y los proveedores privados de tecnología de la información y servicios asociados.
+ 
+En el marco del SIE 2010, se abre una nueva edición, la tercera, del Premio Nacional de Gobierno Electrónico, en reconocimiento a los esfuerzos realizados desde la Administración Pública, la Academia y la Industria en pos del desarrollo de esa temática al Servicio de la Sociedad. El llamado a presentación de trabajos se explica a continuación.
+ 
+   PREMIO NACIONAL DE GOBIERNO ELECTRÓNICO (3RA EDICIÓN)
+          LLAMADO A PRESENTACIÓN DE TRABAJOS
+  
+A. MODALIDAD DE LOS TRABAJOS
+Se convoca a la presentación de trabajos relacionados con el Gobierno Electrónico en las siguientes modalidades:
+ 
+ - A.1  Modalidad Proyectos:
+Tiene como objetivo premiar los mejores proyectos que, aunque no hayan sido implantados, presenten propuestas innovadoras para los más variados segmentos de servicios públicos gubernamentales o no. En caso que el proyecto se encuentre en funcionamiento deberá ser inscripto en la modalidad Iniciativas de Éxito.
+ 
+ - A.2  Modalidad Iniciativas de Éxito:
+Tiene como objetivo premiar a las mejores iniciativas en funcionamiento tanto en el ámbito interno, con mejoras de procesos de gestión pública, como en el ámbito externo, con iniciativas de prestación de servicios, informaciones, garantías de derecho, transparencia y participación, siempre con el foco en el ciudadano.
+
+ - A.3  Modalidad Monografías:
+Tiene como objetivo premiar a los mejores textos de carácter analítico y de opinión sobre la utilización de las tecnologías de información y comunicación en la prestación de servicios al ciudadano y en el fortalecimiento de la participación ciudadana. La Monografía para diferenciarse de las otras modalidades deberá ser de opinión, con juicio de valor y analítica (análisis, comparación, texto y crítica).
+ 
+B. TEMÁTICAS DE LOS TRABAJOS Y CRITERIOS PARA SU ELABORACIÓN
+Este cuarto simposio se realizará bajo el tema de Gobierno Electrónico. Los trabajos a presentar deben estar directamente relacionados con esa temática y de acuerdo a las modalidades enunciadas.
+
+ - B.1  Modalidad Proyectos:
+Contenido que los trabajos deben presentar:
+  1. Introducción: presentar brevemente de qué trata el proyecto, presentación de la situación de oportunidad de empleo de la tecnología (o problema a resolver) y del papel de la tecnología de información en la solución. Este tópico es apenas una presentación al lector, ya que el contexto y la solución serán descriptos a continuación.
+  2. Situación-Problema u Oportunidad: describir la situación-problema o la oportunidad de empleo de tecnología que motivan el desarrollo del proyecto. La situación puede ser descripta en términos de problemas que deben ser enfrentados, organizaciones implicadas, demandas a ser atendidas, objetivos a ser alcanzados u otras características que definan el contexto en el que el proyecto fue elaborado. Deberá haber correspondencia entre el contexto aquí presentado y la solución, explicitando cómo fueron considerados los requisitos de la situación-problema.
+  3. Solución: describir la solución propuesta. Esta descripción  debe contemplar la arquitectura de diversos componentes de tecnología de información necesarios, como el sistema de información, red, hardware, software, comunicación, etc. Se sugiere que también sean descriptos los procedimientos organizacionales previstos, tales como la búsqueda de participación y colaboración, entrenamiento, divulgación, obtención de recursos y otros.
+  4. Innovación e Inédito: mostrar en qué puntos el proyecto se muestra inédito para el ambiente en el cual se inserta o para el servicio público como un todo. También deben ser indicadas cuáles innovaciones presenta el proyecto en el uso de la tecnología de información en los  servicios públicos que aún no fueron utilizadas por otros órganos e instituciones.
+  5. Beneficiarios: identificar los beneficiarios directos e indirectos del proyecto.  
+  6. Relevancia para el Interés Público: demostrar desde el punto de vista de los  beneficiarios, la importancia de la ejecución del proyecto para resolver el problema, y/o las oportunidades o beneficios que el proyecto o la solución generan. Mostrar cómo el proyecto medirá la atención de las necesidades de los beneficiarios, en una forma que supere la visión interna de la agencia. Presentar indicadores externos de éxito del proyecto. Indicar cuál es la relevancia para el interés público de una forma más amplia, como por ejemplo, la solución de un problema social grave, la valorización de la cultura local, o un avance en la afirmación de derechos fundamentales, entre otros.
+  7. Viabilidad Técnica, Financiera y Política Organizacional: mostrar los recursos necesarios, plazos, la sustentabilidad del proyecto a lo largo del tiempo, la escalabilidad, indicadores técnicos y financieros y retorno de inversión. Presentar los indicadores que deberán ser usados después de la implementación para medir el resultado del proyecto. Describir cómo se garantiza la viabilidad política y organizacional del desarrollo y la implantación del proyecto.
+  8. Facilidad de Reproducción: mostrar con qué grado de facilidad tecnológica y financiera el proyecto podrá ser reproducido por otro órgano o institución.
+  9. Ambiente de Hardware y Software: describir la arquitectura de hardware y software propuesta en el proyecto, incluyendo en el caso que estén identificados, los posibles proveedores.  
+ 
+ - B.2  Modalidad Iniciativas de Éxito:
+Contenido que los trabajos deben presentar:
+  1. Introducción: explicar brevemente de qué trata la iniciativa, presentando la oportunidad percibida o problema que existía antes de ser implementada y el papel de la tecnología de información en la solución de ese problema. Este tópico es apenas una breve presentación al lector, ya que el contexto y la solución serán descriptos a continuación.
+  2. Situación-Problema u Oportunidad: describir la situación-problema u oportunidad de empleo de la tecnología que motivaron el desarrollo e implantación de la iniciativa. La situación puede ser descripta en términos de problemas que fueron enfrentados, organizaciones involucradas, demandas que fueron atendidas, objetivos alcanzados u otras características que definan el contexto en que la iniciativa fue desarrollada e implementada.
+  3. Solución: describir la solución implementada. Esta descripción debe contemplar la arquitectura de los diversos componentes de tecnología de información necesarios, tales como el sistema de información, red, hardware, software y comunicación. Se sugiere que también sean descriptos los procedimientos organizacionales que fueron seguidos, tales como la búsqueda de participación y cooperación, entrenamiento, divulgación, obtención de recursos y otros.
+  4. Innovación e Inédito: mostrar en qué puntos la iniciativa se muestra inédita para el ambiente en el cual se inserta o para el servicio público como un todo. También deben ser indicadas cuáles innovaciones presenta la iniciativa en el uso de tecnología de información en los servicios públicos que aún no fueron utilizadas por otros órganos e instituciones.
+  5. Beneficiarios: identificar a los beneficiarios directos e indirectos de  la iniciativa.
+  6. Relevancia para el Interés Público: demostrar, desde el punto de vista de los beneficiarios,  la importancia de la ejecución de esta iniciativa para resolver el problema y cuáles oportunidades la iniciativa aprovechó. Indicar cuál es la relevancia para el interés público de una forma más amplia, como por ejemplo la solución de un problema social grave, la valorización de la cultura local, o un avance en la afirmación de derechos fundamentales, entre otros.
+  7. Efectividad: focalizar en la medición de resultado y el impacto alcanzado para los beneficiarios. Deberán ser mostrados de forma cuantitativa (números, porcentajes, valores, etc.) los beneficios alcanzados que puedan indicar un cambio real y comparativo con la situación anterior a la implantación de la iniciativa. También debe ser presentado en este tópico el grado de adhesión y satisfacción de los beneficiarios descriptos en el ítem e. Por ejemplo, algunos indicadores que pueden ser usados incluyen: evaluación de la calidad de la iniciativa, porcentaje de ahorro en el uso de los servicios públicos, porcentaje de usuarios en relación con el total de beneficiarios previstos, e indicadores de mayor eficiencia comparada con la situación anterior, entre otros
+  8. Facilidad de Reproducción: mostrar con qué grado de facilidad tecnológica y financiera la iniciativa puede ser reproducida por otro órgano o institución.
+  9. Ambiente de Hardware y Software: describir la arquitectura de hardware y software utilizada en la iniciativa incluyendo sus respectivos proveedores.
+ 
+ -B.3  Modalidad Monografías:
+Contenido que los trabajos deben presentar:
+  1. Introducción: justificación y definición del problema.
+  2. Relevancia para el Interés Público: justificar la importancia del trabajo para el interés público.
+  3.  Análisis y Redacción: presentar la reflexión textual con buena redacción, con análisis, argumentos y referencias consistentes.
+  4. Conclusión y Sugerencias.
+  5. Bibliografía: incluir referencias a los trabajos relacionados.
+  
+C. PRESENTACIÓN DE LOS TRABAJOS
+ - C.1  Autorización
+Los autores deberán contar con la autorización de la autoridad política que competa para las modalidades: Proyectos e Iniciativas de Éxito.
+Los autores deberán contar con la autorización de la autoridad política que competa para la modalidad: Monografía cuando el contenido se refiera a la actividad  que desempeñen en un organismo de la Administración Pública
+
+ - C.2  Formato
+Los trabajos deberán incluir un Resumen de hasta 200 palabras.
+Deberán tener un máximo de 15 páginas.
+El formato de los trabajos debe ser pdf, letra Arial 10 a doble espacio en papel A4.
+En cuanto a los autores, debe detallarse apellido y nombre, institución a la que pertenece, dirección de la institución, y dirección de mail del autor.
+ 
+ - C.3 Idioma
+Los artículos deberán estar escritos en castellano, portugués o inglés.
+ 
+ - C.4 Presentación
+El mecanismo de envío de trabajos será publicado a la brevedad en el sitio web del simposio http://www.39jaiio.org.ar/SIE
+Al enviar el trabajo, los autores deberán indicar si consideran que sus trabajos pueden ser compartidos con otros simposios de las 39 JAIIO.
+Los trabajos recibidos serán evaluados por un comité de programa, integrado por personalidades destacadas de la Universidad, la Industria y el Estado.
+Los autores de trabajos aprobados podrán ser invitados a exponer los mismos durante el desarrollo del Simposio. Se requerirá que al menos un autor se inscriba en las 39 JAIIO para que el trabajo sea incluido en los Proceedings del evento y pueda ser presentado.
+
+ - C.5 Inscripción de autores
+Al menos uno de los autores de los trabajos aprobados deberá estar registrado en la conferencia con anterioridad a la fecha limite para la presentación definitiva de trabajos (camera ready) a fin de que el mismo sea considerado para su publicación.
+ 
+D. FECHAS IMPORTANTES
+3 de Mayo 2010 –  Cierre de Recepción de Trabajos
+14 de Junio 2010 – Notificación de Trabajos Aceptados
+28 de Junio de 2010 –   Recepción de Trabajos en formato “Camera Ready”. Inscripción de un Autor
+30 de Agosto  2010 –  Inicio de las 39 JAIIO
+3 de Septiembre  2010 – Clausura de las 39 JAIIO
+ 
+E. ORGANIZADORES
+Lic. María Luján Gurmendi – Directora Ejecutiva del Consorcio de Universidades SIU.
+ 
+Mg. Lía Molinari -  Profesora Titular y Directora de Transferencia y Actualización Profesional de la Facultad de Informática, Universidad nacional de La Plata.
+ 
+F. CONTACTO
+Contacto: siejaiio@gmail.com
+Visite: http://www39jaiio.org.ar/
+ 
+SADIO Sociedad Argentina de Informática
+Uruguay 252 2º "D" (C1015ABF) - Ciudad de Buenos Aires
+Tel: 4371-5755   Tel/Fax: 4372-3950
+E-mail: sadio@speedy.com.ar
+Web: www.sadio.org.ar

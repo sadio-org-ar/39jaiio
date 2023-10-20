@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="sites/default/files/garland_favicon.ico" type="image/x-icon" />
+    <title>4º Simposio Argentino de Informática en el Estado | 39jaiio</title>
+    <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/nice_menus/nice_menus.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/nice_menus/nice_menus_default.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/upload_element/upload_element.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/user/user.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/default/files/color/garland-38173c7b/style.css?z" />
+<link type="text/css" rel="stylesheet" media="print" href="themes/garland/print.css?z" />
+    <script type="text/javascript" src="misc/jquery.js?z"></script>
+<script type="text/javascript" src="misc/drupal.js?z"></script>
+<script type="text/javascript" src="sites/default/files/languages/es_c5e3223b4990bdc4b3c620e034b929e5.js?z"></script>
+<script type="text/javascript" src="modules/nice_menus/nice_menus.js?z"></script>
+<script type="text/javascript" src="misc/tableheader.js?z"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/garland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebar-left">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="index.html" title=""><img src="sites/default/files/garland_logo.png" alt="" id="logo" /></a></h1>        </div>
+
+                  <ul class="links primary-links"><li class="menu-128 first"><a href="http://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
+<li class="menu-143"><a href="http://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
+<li class="menu-144"><a href="http://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
+<li class="menu-160"><a href="http://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
+<li class="menu-244"><a href="http://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
+<li class="menu-243 last"><a href="http://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
+</ul>                                  
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-nice_menus-1" class="clear-block block block-nice_menus">
+
+  <h2>39Jaiio</h2>
+
+  <div class="content"><ul class="nice-menu nice-menu-right" id="nice-menu-1"><li id="menu-136" class="menu-path-node-7"><a href="inicio" title="Bienvenido a las 39jaiio">Bienvenido</a></li>
+<li id="menu-137" class="menu-path-node-9"><a href="organizadores" title="Comité organizador">Organizadores</a></li>
+<li id="menu-328" class="menu-path-node-113"><a href="voluntarios" title="Alumnos voluntarios">Alumnos voluntarios</a></li>
+<li id="menu-142" class="menuparent menu-path-node-11"><a href="simposios" title="Simposios que componen las 39jaiio">Simposios</a><ul><li id="menu-257" class="menu-path-node-12"><a href="asai" title="Argentine Symposium on Artificial Intelligence">ASAI</a></li>
+<li id="menu-258" class="menu-path-node-2"><a href="asse" title="11th Argentine Symposium on Software Engineering">ASSE</a></li>
+<li id="menu-259" class="menu-path-node-5"><a href="ast" title="11º Argentine Symposium on Technology">AST</a></li>
+<li id="menu-260" class="menu-path-node-16"><a href="cai" title="2º Congreso de AgroInformática">CAI</a></li>
+<li id="menu-261" class="menu-path-node-30"><a href="cais" title="Congreso Argentino de Informatica y Salud">CAIS</a></li>
+<li id="menu-262" class="menu-path-node-61"><a href="est" title="Concurso de Trabajos Estudiantiles">EST</a></li>
+<li id="menu-263" class="menu-path-node-14"><a href="hpc" title="3rd High-Performance Computing Symposium">HPC</a></li>
+<li id="menu-264" class="menu-path-node-6"><a href="jii" title="7º Jornada de Informática Industrial">JII</a></li>
+<li id="menu-265" class="menu-path-node-15"><a href="jsl" title="Jornadas de Software Libre">JSL</a></li>
+<li id="menu-271" class="menu-path-node-68"><a href="jui" title="Jornadas de Vinculación Universidad-Industria">JUI</a></li>
+<li id="menu-266" class="menu-path-node-8"><a href="sid" title="Simposio Argentino de Informática y Derecho">SID</a></li>
+<li id="menu-267" class="menu-path-node-4"><a href="sie" title="4º Simposio Argentino de Informática en el Estado" class="active">SIE</a></li>
+<li id="menu-268" class="menu-path-node-3"><a href="ssi" title="8° Simposio sobre la Sociedad de la Información">SSI</a></li>
+<li id="menu-269" class="menu-path-node-28"><a href="wsegi" title="Workshop de Seguridad Informática">WSegI</a></li>
+<li id="menu-342" class="menu-path-node-125"><a href="node/125" title="Sesión Informativa &amp; Mesa Redonda PRO-IDEAL">PRO-IDEAL</a></li>
+</ul>
+</li>
+<li id="menu-140" class="menu-path-node-10"><a href="fechas" title="Fechas importantes">Fechas importantes</a></li>
+<li id="menu-270" class="menu-path-node-46"><a href="programa" title="Cronograma de las 39Jaiio">Programa</a></li>
+<li id="menu-141" class="menuparent menu-path-node-54"><a href="instrucciones_inscripcion" title="Inscripción a las 39jaiio">Inscripción</a><ul><li id="menu-281" class="menu-path-node-55"><a href="aranceles" title="Aranceles inscripción 39 JAIIO (en pesos argentinos)">Aranceles</a></li>
+<li id="menu-282" class="menu-path-node-54"><a href="instrucciones_inscripcion" title="Instrucciones para inscribirse en las 39JAIIO">Instrucciones</a></li>
+</ul>
+</li>
+<li id="menu-283" class="menu-path-node-57"><a href="oradores_invitados" title="Oradores Invitados">Oradores Invitados</a></li>
+<li id="menu-289" class="menu-path-node-70"><a href="auspicios" title="Auspicios">Auspicios</a></li>
+<li id="menu-138" class="menu-path-node-45"><a href="sponsors" title="Sponsors de las 39jaiio">Sponsors</a></li>
+<li id="menu-248" class="menu-path-node-29"><a href="poster" title="Descargue el poster y los logos de las 39Jaiio">Descargue el poster y los logos</a></li>
+<li id="menu-288" class="menu-path-node-69"><a href="contactos" title="Contactos 39JAIIO">Contactos</a></li>
+</ul>
+</div>
+</div>
+<div id="block-nice_menus-6" class="clear-block block block-nice_menus">
+
+  <h2>Proceedings</h2>
+
+  <div class="content"><ul class="nice-menu nice-menu-right" id="nice-menu-6"><li id="menu-294" class="menu-path-node-82"><a href="inicio-anales" title="Presentación de los anales de las 39JAIIO">Presentación</a></li>
+<li id="menu-296" class="menu-path-node-9"><a href="organizadores" title="Organizadores de las 39JAIIO">Organizadores</a></li>
+<li id="menu-298" class="menu-path-node-45"><a href="sponsors" title="Sponsors de las 39JAIIO">Sponsors</a></li>
+<li id="menu-299" class="menu-path-node-70"><a href="auspicios" title="Auspicios a las 39JAIIO">Auspicios</a></li>
+<li id="menu-302" class="menuparent menu-path-node-81"><a href="node/81" title="Proceedings of ASAI">ASAI</a><ul><li id="menu-303" class="menu-path-node-81"><a href="node/81" title="Presentación de los Anales de ASAI">Presentación</a></li>
+<li id="menu-301" class="menu-path-node-83"><a href="node/83" title="Contribuciones al ASAI">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-304" class="menuparent menu-path-node-84"><a href="node/84" title="Proceedings of ASSE">ASSE</a><ul><li id="menu-305" class="menu-path-node-84"><a href="node/84" title="Presentación de los Anales de ASAI 2010">Presentación</a></li>
+<li id="menu-306" class="menu-path-node-85"><a href="node/85" title="Contributions to ASSE">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-316" class="menuparent menu-path-node-93"><a href="node/93" title="Proceedings of the AST 2010">AST</a><ul><li id="menu-317" class="menu-path-node-93"><a href="node/93" title="Presentación del AST 2010">Presentación</a></li>
+<li id="menu-318" class="menu-path-node-90"><a href="node/90" title="Contribuciones al AST 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-307" class="menuparent menu-path-node-87"><a href="node/87" title="Anales de CAI 2010">CAI</a><ul><li id="menu-309" class="menu-path-node-87"><a href="node/87" title="Presentación de los Anales del CAI 2010">Presentación</a></li>
+<li id="menu-308" class="menu-path-node-86"><a href="node/86" title="Contribuciones al CAI 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-335" class="menuparent menu-path-node-119"><a href="node/119" title="Anales del CAIS 2010">CAIS</a><ul><li id="menu-337" class="menu-path-node-119"><a href="node/119" title="Presentación de los Anales del CAIS 2010">Presentación</a></li>
+<li id="menu-336" class="menu-path-node-120"><a href="node/120" title="Contribuciones al CAIS 2010">Contribuciones</a></li>
+<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="http://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
+</ul>
+</li>
+<li id="menu-310" class="menuparent menu-path-node-89"><a href="node/89" title="Anales de EST 2010">EST</a><ul><li id="menu-311" class="menu-path-node-89"><a href="node/89" title="Presentación de los Anales del EST 2010">Presentación</a></li>
+<li id="menu-312" class="menu-path-node-88"><a href="node/88" title="Contribuciones al EST 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-338" class="menuparent menu-path-node-122"><a href="node/122" title="Proceedings of the HPC 2010">HPC</a><ul><li id="menu-339" class="menu-path-node-122"><a href="node/122" title="Presentación de los Anales del HPC 2010">Presentación</a></li>
+<li id="menu-340" class="menu-path-node-121"><a href="node/121" title="Contribuciones al HPC 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-324" class="menuparent menu-path-node-97"><a href="node/97" title="Anales de la JII 2010">JII</a><ul><li id="menu-326" class="menu-path-node-97"><a href="node/97" title="Presentación de los Anales de las JII 2010">Presentación</a></li>
+<li id="menu-325" class="menu-path-node-98"><a href="node/98" title="Contribuciones a la JII 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-329" class="menuparent menu-path-node-116"><a href="node/116" title="Anales de la JSL 2010">JSL</a><ul><li id="menu-330" class="menu-path-node-116"><a href="node/116" title="Presentación de los Anales de la JSL 2010">Presentación</a></li>
+<li id="menu-331" class="menu-path-node-115"><a href="node/115" title="Contribuciones a la JSL 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-322" class="menuparent menu-path-node-96"><a href="node/96" title="Anales del SID 2010">SID</a><ul><li id="menu-323" class="menu-path-node-96"><a href="node/96" title="Presentación de los Anales del SID 2010">Presentación</a></li>
+<li id="menu-327" class="menu-path-node-99"><a href="node/99" title="Contribuciones al SID 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-313" class="menuparent menu-path-node-92"><a href="node/92" title="Anales de SIE 2010">SIE</a><ul><li id="menu-314" class="menu-path-node-92"><a href="node/92" title="Presentación de los Anales del SIE 2010">Presentación</a></li>
+<li id="menu-315" class="menu-path-node-91"><a href="node/91" title="Contribuciones al SIE 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-332" class="menuparent menu-path-node-118"><a href="node/118" title="Anales del SSI 2010">SSI</a><ul><li id="menu-333" class="menu-path-node-118"><a href="node/118" title="Presentación de los Anales del SSI 2010">Presentación</a></li>
+<li id="menu-334" class="menu-path-node-117"><a href="node/117" title="Contribuciones al SSI 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-319" class="menuparent menu-path-node-95"><a href="node/95" title="Anales del WSegI 2010">WSegI</a><ul><li id="menu-320" class="menu-path-node-95"><a href="node/95" title="Presentación de los Anales del WSegI 2010">Presentación</a></li>
+<li id="menu-321" class="menu-path-node-94"><a href="node/94" title="Contribuciones al WSegI 2010">Contribuciones</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <div class="breadcrumb"><a href="index.html">Inicio</a></div>                              <h2>4º Simposio Argentino de Informática en el Estado</h2>                                                  <div class="clear-block">
+            <div id="node-4" class="node">
+
+
+
+  
+  <div class="content clear-block">
+    <p>De acuerdo con el objetivo de comunicar, discutir e integrar el Sector Público, Academia e Industria en la gestión de los sistemas de información, el Cuarto Simposio de Informática en el Estado ( SIE 2010), en el marco de las 39 Jornadas Argentinas de Informática (39 JAIIO), es un nueva oportunidad de repetir el éxito de las convocatorias anteriores. La demanda actual desde el Estado, donde la interoperabilidad es uno de los requerimientos más reclamados y donde se plantea la necesidad de profesionalizar al gestor de la información con la preparación multidisciplinar que hoy los ambientes exigen, este simposio es el lugar indicado para conocer diferentes iniciativas, conocer el arduo camino que condujo a una implementación exitosa, o relacionarse con otros profesionales involucrados en proyectos similares. Es nuestra meta que SIE 2010 sea el espacio de aprendizaje y transferencia de conocimiento sobre la gestión de la informática en el Estado, con la participación de las instituciones estatales, la Academia y los proveedores privados de tecnología de la información y servicios asociados. En el marco del SIE 2010, se abre una nueva edición, la tercera, del Premio Nacional de Gobierno Electrónico, en reconocimiento a los esfuerzos realizados desde la Administración Pública, la Academia y la Industria en pos del desarrollo de esa temática al Servicio de la Sociedad. El llamado a presentación de trabajos se explica a continuación. </p>
+<div><strong><span style="font-size: xx-small;">PREMIO NACIONAL DE GOBIERNO ELECTRÓNICO (3RA EDICIÓN) LLAMADO A PRESENTACIÓN DE TRABAJOS</span></strong></div>
+<h3>A. Modalidad de los Trabajos</h3>
+<p>Se convoca a la presentación de trabajos relacionados con el Gobierno Electrónico en las siguientes modalidades: </p>
+<ul>
+<dt>A.1 Modalidad Proyectos</dt>
+<dd>Tiene como objetivo premiar los mejores proyectos que, aunque no hayan sido implantados, presenten propuestas innovadoras para los más variados segmentos de servicios públicos gubernamentales o no. En caso que el proyecto se encuentre en funcionamiento deberá ser inscripto en la modalidad Iniciativas de Éxito.</dd>
+<dt>A.2 Modalidad Iniciativas de Éxito</dt>
+<dd>Tiene como objetivo premiar a las mejores iniciativas en funcionamiento tanto en el ámbito interno, con mejoras de procesos de gestión pública, como en el ámbito externo, con iniciativas de prestación de servicios, informaciones, garantías de derecho, transparencia y participación, siempre con el foco en el ciudadano.</dd>
+<dt>A.3 Modalidad Monografías</dt>
+<dd>Tiene como objetivo premiar a los mejores textos de carácter analítico y de opinión sobre la utilización de las tecnologías de información y comunicación en la prestación de servicios al ciudadano y en el fortalecimiento de la participación ciudadana. La Monografía para diferenciarse de las otras modalidades deberá ser de opinión, con juicio de valor y analítica (análisis, comparación, texto y crítica).</dd>
+</ul>
+<h3>B. Temáticas de los Trabajos y Criterios para su Elaboración</h3>
+<p>Este cuarto simposio se realizará bajo el tema de Gobierno Electrónico. Los trabajos a presentar deben estar directamente relacionados con esa temática y de acuerdo a las modalidades enunciadas. </p>
+<h4>B.1 Modalidad Proyectos:</h4>
+<p>Contenido que los trabajos deben presentar: </p>
+<ol>
+<li>Introducción: presentar brevemente de qué trata el proyecto, presentación de la situación de oportunidad de empleo de la tecnología (o problema a resolver) y del papel de la tecnología de información en la solución. Este tópico es apenas una presentación al lector, ya que el contexto y la solución serán descriptos a continuación.</li>
+<li>Situación-Problema u Oportunidad: describir la situación-problema o la oportunidad de empleo de tecnología que motivan el desarrollo del proyecto. La situación puede ser descripta en términos de problemas que deben ser enfrentados, organizaciones implicadas, demandas a ser atendidas, objetivos a ser alcanzados u otras características que definan el contexto en el que el proyecto fue elaborado. Deberá haber correspondencia entre el contexto aquí presentado y la solución, explicitando cómo fueron considerados los requisitos de la situación-problema.</li>
+<li>Solución: describir la solución propuesta. Esta descripción debe contemplar la arquitectura de diversos componentes de tecnología de información necesarios, como el sistema de información, red, hardware, software, comunicación, etc. Se sugiere que también sean descriptos los procedimientos organizacionales previstos, tales como la búsqueda de participación y colaboración, entrenamiento, divulgación, obtención de recursos y otros.</li>
+<li>Innovación e Inédito: mostrar en qué puntos el proyecto se muestra inédito para el ambiente en el cual se inserta o para el servicio público como un todo. También deben ser indicadas cuáles innovaciones presenta el proyecto en el uso de la tecnología de información en los servicios públicos que aún no fueron utilizadas por otros órganos e instituciones.</li>
+<li>Beneficiarios: identificar los beneficiarios directos e indirectos del proyecto. </li>
+<li>Relevancia para el Interés Público: demostrar desde el punto de vista de los beneficiarios, la importancia de la ejecución del proyecto para resolver el problema, y/o las oportunidades o beneficios que el proyecto o la solución generan. Mostrar cómo el proyecto medirá la atención de las necesidades de los beneficiarios, en una forma que supere la visión interna de la agencia. Presentar indicadores externos de éxito del proyecto. Indicar cuál es la relevancia para el interés público de una forma más amplia, como por ejemplo, la solución de un problema social grave, la valorización de la cultura local, o un avance en la afirmación de derechos fundamentales, entre otros.</li>
+<li>Viabilidad Técnica, Financiera y Política Organizacional: mostrar los recursos necesarios, plazos, la sustentabilidad del proyecto a lo largo del tiempo, la escalabilidad, indicadores técnicos y financieros y retorno de inversión. Presentar los indicadores que deberán ser usados después de la implementación para medir el resultado del proyecto. Describir cómo se garantiza la viabilidad política y organizacional del desarrollo y la implantación del proyecto.</li>
+<li>Facilidad de Reproducción: mostrar con qué grado de facilidad tecnológica y financiera el proyecto podrá ser reproducido por otro órgano o institución.</li>
+<li>Ambiente de Hardware y Software: describir la arquitectura de hardware y software propuesta en el proyecto, incluyendo en el caso que estén identificados, los posibles proveedores. </li>
+</ol>
+<h4>B.2 Modalidad Iniciativas de Éxito</h4>
+<p>Contenido que los trabajos deben presentar: </p>
+<ol>
+<li>Introducción: explicar brevemente de qué trata la iniciativa, presentando la oportunidad percibida o problema que existía antes de ser implementada y el papel de la tecnología de información en la solución de ese problema. Este tópico es apenas una breve presentación al lector, ya que el contexto y la solución serán descriptos a continuación.</li>
+<li>Situación-Problema u Oportunidad: describir la situación-problema u oportunidad de empleo de la tecnología que motivaron el desarrollo e implantación de la iniciativa. La situación puede ser descripta en términos de problemas que fueron enfrentados, organizaciones involucradas, demandas que fueron atendidas, objetivos alcanzados u otras características que definan el contexto en que la iniciativa fue desarrollada e implementada.</li>
+<li>Solución: describir la solución implementada. Esta descripción debe contemplar la arquitectura de los diversos componentes de tecnología de información necesarios, tales como el sistema de información, red, hardware, software y comunicación. Se sugiere que también sean descriptos los procedimientos organizacionales que fueron seguidos, tales como la búsqueda de participación y cooperación, entrenamiento, divulgación, obtención de recursos y otros.</li>
+<li>Innovación e Inédito: mostrar en qué puntos la iniciativa se muestra inédita para el ambiente en el cual se inserta o para el servicio público como un todo. También deben ser indicadas cuáles innovaciones presenta la iniciativa en el uso de tecnología de información en los servicios públicos que aún no fueron utilizadas por otros órganos e instituciones.</li>
+<li>Beneficiarios: identificar a los beneficiarios directos e indirectos de la iniciativa.</li>
+<li>Relevancia para el Interés Público: demostrar, desde el punto de vista de los beneficiarios, la importancia de la ejecución de esta iniciativa para resolver el problema y cuáles oportunidades la iniciativa aprovechó. Indicar cuál es la relevancia para el interés público de una forma más amplia, como por ejemplo la solución de un problema social grave, la valorización de la cultura local, o un avance en la afirmación de derechos fundamentales, entre otros.</li>
+<li>Efectividad: focalizar en la medición de resultado y el impacto alcanzado para los beneficiarios. Deberán ser mostrados de forma cuantitativa (números, porcentajes, valores, etc.) los beneficios alcanzados que puedan indicar un cambio real y comparativo con la situación anterior a la implantación de la iniciativa. También debe ser presentado en este tópico el grado de adhesión y satisfacción de los beneficiarios descriptos en el ítem e. Por ejemplo, algunos indicadores que pueden ser usados incluyen: evaluación de la calidad de la iniciativa, porcentaje de ahorro en el uso de los servicios públicos, porcentaje de usuarios en relación con el total de beneficiarios previstos, e indicadores de mayor eficiencia comparada con la situación anterior, entre otros</li>
+<li>Facilidad de Reproducción: mostrar con qué grado de facilidad tecnológica y financiera la iniciativa puede ser reproducida por otro órgano o institución.</li>
+<li>Ambiente de Hardware y Software: describir la arquitectura de hardware y software utilizada en la iniciativa incluyendo sus respectivos proveedores.</li>
+</ol>
+<h4>B.3 Modalidad Monografías</h4>
+<p>Contenido que los trabajos deben presentar: </p>
+<ol>
+<li>Introducción: justificación y definición del problema.</li>
+<li>Relevancia para el Interés Público: justificar la importancia del trabajo para el interés público.</li>
+<li>Análisis y Redacción: presentar la reflexión textual con buena redacción, con análisis, argumentos y referencias consistentes.</li>
+<li>Conclusión y Sugerencias.</li>
+<li>Bibliografía: incluir referencias a los trabajos relacionados.</li>
+</ol>
+<h3>C. Presentación de los Trabajos</h3>
+<h4>C.1 Autorización</h4>
+<p>Los autores deberán contar con la autorización de la autoridad política que competa para las modalidades: Proyectos e Iniciativas de Éxito. Los autores deberán contar con la autorización de la autoridad política que competa para la modalidad: Monografía cuando el contenido se refiera a la actividad que desempeñen en un organismo de la Administración Pública </p>
+<h4>C.2 Formato</h4>
+<p>Los trabajos deberán incluir un Resumen de hasta 200 palabras. Deberán tener un máximo de 15 páginas. El formato de los trabajos debe ser pdf, letra Arial 10 a doble espacio en papel A4. En cuanto a los autores, debe detallarse apellido y nombre, institución a la que pertenece, dirección de la institución, y dirección de mail del autor. </p>
+<h4>C.3 Idioma</h4>
+<p>Los artículos deberán estar escritos en castellano, portugués o inglés. </p>
+<h4>C.4 Presentación</h4>
+<p>El envío de trabajos a cualquiera de los simposios de las 39Jaiio se hace por medio del sistema de gestión de conferencias de SADIO. Para enviar su trabajo necesita credenciales de acceso al sistema. A continuación le proveemos un link para obtener sus credenciales si aún no las tiene. Una vez que tenga sus credenciales de acceso, proceda por el link "Iniciar el proceso de envío de trabajos a SIE 2010". </p>
+<ul>
+<li><a href="http://www.39jaiio.org.ar/instrucciones-envio">Instrucciones detalladas para obtención de credenciales y envío de trabajos</a></li>
+<li><a href="http://190.247.127.144:8080/ocs/index.php/JAIIO39/SIE2010/user/account">Obtener credenciales de acceso en el sistema de gestión de conferencias de SADIO</a></li>
+<li><a href="http://190.247.127.144:8080/ocs/index.php/JAIIO39/SIE2010/presenter/submit?requiresPresenter=1">Iniciar el proceso de envío de trabajos a SIE 2010</a></li>
+</ul>
+<p>&nbsp;Al enviar el trabajo, los autores deberán indicar si consideran que sus trabajos pueden ser compartidos con otros simposios de las 39 JAIIO. Los trabajos recibidos serán evaluados por un comité de programa, integrado por personalidades destacadas de la Universidad, la Industria y el Estado. Los autores de trabajos aprobados podrán ser invitados a exponer los mismos durante el desarrollo del Simposio. Se requerirá que al menos un autor se inscriba en las 39 JAIIO para que el trabajo sea incluido en los Proceedings del evento y pueda ser presentado. </p>
+<h4>C.5 Inscripción de autores</h4>
+<p>Al menos uno de los autores de los trabajos aprobados deberá estar registrado en la conferencia con anterioridad a la fecha limite para la presentación definitiva de trabajos (camera ready) a fin de que el mismo sea considerado para su publicación. </p>
+<h3>D. Fechas importantes</h3>
+<ul>
+<li><strong>17 de Mayo 2010:</strong> Cierre de Recepción de Trabajos <span style="color: #ff0000;">*PLAZO DE ENTREGA EXTENDIDO*</span></li>
+<li>14 de Junio 2010: Notificación de Trabajos Aceptados</li>
+<li> 28 de Junio de 2010: Recepción de Trabajos en formato "Camera Ready". Inscripción de un Autor </li>
+<li>30 de Agosto 2010: Inicio de las 39 JAIIO</li>
+<li> 3 de Septiembre 2010: Clausura de las 39 JAIIO </li>
+</ul>
+<h3>E. Organizadores</h3>
+<p>Lic. María Luján Gurmendi - Directora Ejecutiva del Consorcio de Universidades SIU. Mg. Lía Molinari - Profesora Titular y Directora de Transferencia y Actualización Profesional de la Facultad de Informática, Universidad nacional de La Plata. </p>
+<h3>F. Contacto</h3>
+<p>Contacto: <a href="mailto:siejaiio@gmail.com">siejaiio@gmail.com</a> Visite: <a href="http://www.39jaiio.org.ar/" title="http://www.39jaiio.org.ar/">http://www.39jaiio.org.ar/</a> SADIO Sociedad Argentina de Informática Uruguay 252 2º "D" (C1015ABF) - Ciudad de Buenos Aires Tel: 4371-5755 Tel/Fax: 4372-3950 E-mail: <a href="mailto:sadio@speedy.com.ar">sadio@speedy.com.ar</a> Web: <a href="http://www.sadio.org.ar" title="www.sadio.org.ar">www.sadio.org.ar</a></p>
+<table id="attachments" class="sticky-enabled">
+ <thead><tr><th>Adjunto</th><th>Tamaño</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td><a href="sites/default/files/cfp-39jaiio-sie-2010.txt">Call for papers (solo texto)</a></td><td>13.85 KB</td> </tr>
+</tbody>
+</table>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+          </div>
+                    <div id="footer">Community Master: Danilo Zecchin - <a href="mailto:dzecchin@lifia.info.unlp.edu.ar">dzecchin@lifia.info.unlp.edu.ar</a></div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript" src="modules/google_analytics/googleanalytics.js?z"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-11987301-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+  </body>
+</html>

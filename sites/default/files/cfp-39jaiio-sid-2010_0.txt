@@ -1,0 +1,99 @@
+39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMÁTICA - www.39jaiio.org.ar
+30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autónoma de Buenos Aires
+
+SADIO, la Sociedad Argentina de Informática e Investigación Operativa organiza desde hace 38 años las JAIIO (Jornadas Argentinas de Informática e Investigación Operativa) integrando trabajos, investigaciones y actividades bajo un mismo evento. Las JAIIO constituyen uno de los eventos más importantes del sector informático nacional y regional, con presentaciones y exposiciones provenientes tanto de la academia como de la industria.
+
+La organización de las JAIIO contempla un conjunto de simposios separados por área temática, entre las que se incluyen: ingeniería de software, inteligencia artificial, tecnología, agroinformática, ‘high-performance computing’, informática industrial, software libre, derecho, salud, sociedad de la información, y un concurso de trabajos estudiantiles. Luego de varios años, las JAIIO vuelven a tener sede en la Ciudad de Buenos Aires.
+
+SID 2010 - SIMPOSIO ARGENTINO DE INFORMÁTICA Y DERECHO – http://www.39jaiio.org.ar/SID/   30 y 31 de Agosto de 2010
+
+Mucho tiempo ha pasado desde 1961, en que se iniciaron las JAIIO. El mundo fue cambiando y la presencia de la tecnología en general y de la informática en particular se fue incorporando en la vida de amplios segmentos sociales.
+En este devenir de las JAIIO, en el 2001 nace el Primer Simposio Argentino de Informática y Derecho (SID), en cuyo seno se empieza a discutir, en la Argentina, la incipiente pero necesaria relación entre la informática y el derecho.
+Mucho se ha avanzado desde entonces en la relación entre Derecho e Informática, pero son cada vez más las cuestiones que, en razón del desarrollo tecnológico, la realidad nos propone y es cada vez más necesaria la búsqueda de la excelencia, la creatividad, y el esfuerzo compartido para avanzar en un único y superior sentido: el mejoramiento de la sociedad. De ahí la permanente actualidad, vigencia y crecimiento del SID.
+Con el mismo espíritu pionero del primer día, la comunidad académico-científica de "Informática y Derecho" de Latinoamérica, se reúne en Buenos Aires, en torno al SID 2010, para compartir, aprender, debatir y proponer.
+
+CHAIRS DEL SIMPOSIO 
+ -Prof. Abog. Noemí Olivera, GECSI, Facultad de Ciencias Jurídicas y Sociales, Universidad Nacional de La Plata, Argentina
+ -Prof. Dr. Aires José Rover, Universidade Federal de Santa Catarina, Brasil
+ 
+COMITÉ ACADÉMICO DEL SIMPOSIO
+ -Aída Noblia   (AEU, Uruguay)                  
+ -Ana Haydee Di Iorio (Fasta, Argentina)
+ -Araceli N. Proto (CIC – FI.UBA, Argentina)
+ -Ariel Vercelli (UNQ, Argentina)
+ -Bibiana Luz Clara (Fasta, Argentina)
+ -Carlos E. Bisso (UNLP, Argentina)
+ -Carlos Dionisio Aguirre (UNC-ICANN)
+ -Carola Canelo (Universidad de Chile, Chile)
+ -Clara Smith  (UNLP, Argentina)             
+ -Claudio Augusto Delrieux (UNS, Argentina)
+ -Erick Iriarte Ahon (ALFA-REDI, Perú)
+ -Fernando Barrio (UNRN, Argentina)
+ -Fernando Galindo (Universidad de Zaragoza, España)
+ -Fernando Greco (Ministerio Público de la Provincia de Buenos Aires)
+ -Gustavo Presman (USAL, Argentina)
+ -Horacio Fernández Delpech (Presidente ADIAR, Argentina)
+ -Hugo Cesar Hoeschl (IJURIS, Florianópolis, SC – Brasil)
+ -José Miguel Busquets (Universidad de la República, Uruguay)
+ -Juan Carlos Ponz (UNLP-CALP, Argentina)
+ -Leopoldo Sebastián Gómez (Poder Judicial Neuquén, Argentina)
+ -Marcelo Riquert (UNMdP, Argentina)
+ -María de las Nieves Cenicacelaya (UNLP, Argentina)
+ -María Florencia Franchini (UNLP, Argentina)
+ -María Laura Spina  (UNL, Argentina)    
+ -Nora Chaponick (INFOLEG, Argentina)
+ -Orides Mezzaroba (Universidade Federal de Santa Catarina, Brasil)
+ -Ramón Brenna (UBA, Argentina)
+ -Rita Gajate (UNLP, Argentina)
+ -Ricardo Sebastián Piana (UNLP, Argentina)
+ -Roberto N. Bugallo (UBA-UNCPBA-UNLP)
+ -Tania Cristina D'Agostini Bueno (Universidade Federal de Santa, Catarina, Brasil)
+
+
+CALL FOR PAPERS SID 2010
+El Comité Académico del Simposio Argentino de Informática y Derecho convoca a los autores interesados a presentar sus trabajos, en las siguientes modalidades:
+ -Investigaciones que contengan aportes novedosos y debidamente sustentados y que no estén siendo presentados en otras conferencias. (1)
+ -Prestaciones de casos reales que demuestren impactos significativos, positivos o no, en la gestión informática del derecho.
+
+En ambas modalidades se deberá hacer hincapié en la generación y transmisión de conocimiento que pueda ser apropiado por otros.
+(1) En caso que el trabajo sea afín a más de un simposio de las 39 JAIIO, presentarlo indicando los simposios a los que considera puede ajustarse para su evaluación conjunta.
+ 
+TEMÁTICAS DE LOS TRABAJOS
+Los trabajos a presentar deben estar directamente relacionados con, por lo menos, alguna de las siguientes temáticas, sean trabajos disciplinares de Derecho o Informática o  interdisciplinarios:
+ -El Derecho en la Sociedad de la Información.
+ -El Derecho Informático.
+ - La privacidad en entornos digitales.
+ -La propiedad intelectual en la Sociedad de la Información.
+ -Teletrabajo.
+ -Comercio electrónico.
+ -Derechos del Consumidor de productos y/o servicios informáticos.
+ -Correo electrónico.
+ -Firma Digital.
+ -Factura electrónica.
+ -E-banking: Modelos, problemas, operatorias, seguridad.
+ -Delitos Informáticos.
+ -Pericias informáticas.
+ -Jurisdicción y competencia en la red.
+ -Resolución de conflictos en el entorno electrónico.
+ -Gobierno electrónico.
+ -Democracia electrónica.
+ -Redes sociales.
+ -Archivos digitales.
+ -Informática jurídica.
+ -Seguridad informática.
+ -Ontología aplicada al derecho.
+ -Inteligencia Artificial y Derecho.
+ 
+PRESENTACIÓN DE LOS TRABAJOS
+ -Las instrucciones detalladas para la presentación de trabajos serán publicadas a la brevedad en el sitio web del simposio (http://www.39jaiio.org.ar/SID/)
+ -Los autores deberán indicar si consideran que sus trabajos pueden ser compartidos con otros simposios.
+ -Los autores de trabajos aprobados podrán ser invitados a exponer los mismos durante el desarrollo del Simposio.
+ -Los trabajos deberán tener un máximo de 15 páginas en papel A4 y deben incluir un abstract de hasta 200 palabras, en español o portugués y en inglés El formato de los trabajos es .pdf, cuya plantilla puede descargarse de http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 . Se recomienda muy especialmente respetar el formato especificado.
+ -Los artículos deberán estar escritos en: castellano, portugués o inglés.
+ -Al menos uno de los autores de los trabajos aprobados deberá estar registrado en la conferencia con anterioridad a la fecha limite para la presentación definitiva de trabajos (camera ready) a fin de que el mismo sea considerado para su publicación.
+ 
+FECHAS IMPORTANTES
+Fecha límite para la recepción de trabajos: 03 de mayo de 2010
+Notificación a los autores: 14 de junio de 2010
+Fecha límite para la presentación definitiva de trabajos (camera ready): 28 de Junio 2010
+Inicio de las 39Jaiio: 30 de agosto

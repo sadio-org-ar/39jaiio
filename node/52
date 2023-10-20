@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/default/files/garland_favicon.ico" type="image/x-icon" />
+    <title>Argentine Symposium on Artificial Intelligence | 39jaiio</title>
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/aggregator/aggregator.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/nice_menus/nice_menus.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/nice_menus/nice_menus_default.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/upload_element/upload_element.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/default/files/color/garland-38173c7b/style.css?z" />
+<link type="text/css" rel="stylesheet" media="print" href="../themes/garland/print.css?z" />
+    <script type="text/javascript" src="../misc/jquery.js?z"></script>
+<script type="text/javascript" src="../misc/drupal.js?z"></script>
+<script type="text/javascript" src="../sites/default/files/languages/es_c5e3223b4990bdc4b3c620e034b929e5.js?z"></script>
+<script type="text/javascript" src="../modules/nice_menus/nice_menus.js?z"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/garland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebar-left">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="../index.html" title=""><img src="../sites/default/files/garland_logo.png" alt="" id="logo" /></a></h1>        </div>
+
+                  <ul class="links primary-links"><li class="menu-128 first"><a href="http://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
+<li class="menu-143"><a href="http://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
+<li class="menu-144"><a href="http://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
+<li class="menu-160"><a href="http://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
+<li class="menu-244"><a href="http://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
+<li class="menu-243 last"><a href="http://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
+</ul>                                  
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-nice_menus-4" class="clear-block block block-nice_menus">
+
+  <h2><span class="nice-menu-show-title">ASAI</span></h2>
+
+  <div class="content"><ul class="nice-menu nice-menu-right" id="nice-menu-4"><li id="menu-280" class="menu-path-node-12"><a href="../asai" title="Introduction">Introduction</a></li>
+<li id="menu-273" class="menu-path-node-47"><a href="47" title="Topics of Interest">Topics of Interest</a></li>
+<li id="menu-274" class="menu-path-node-48"><a href="48" title="Program Committee">Program Committee</a></li>
+<li id="menu-275" class="menu-path-node-49"><a href="49" title="Paper Submission">Paper Submission</a></li>
+<li id="menu-276" class="menuparent menu-path-node-50"><a href="50" title="Invited Speakers">Invited Speakers</a><ul><li id="menu-277" class="menu-path-node-51"><a href="51" title="Dr. Pedro Larragraña">Dr. Pedro Larragraña</a></li>
+<li id="menu-278" class="menu-path-node-52"><a href="52" title="Dr. Cristina Conati" class="active">Dr. Cristina Conati</a></li>
+</ul>
+</li>
+<li id="menu-279" class="menu-path-node-53"><a href="53" title="Aknowledgements">Aknowledgements</a></li>
+<li id="menu-293" class="menuparent menu-path-node-81"><a href="81" title="Anales de ASAI">Presentación</a><ul><li id="menu-300" class="menu-path-node-48"><a href="48" title="Organizadores ASAI">Organizadores</a></li>
+</ul>
+</li>
+<li id="menu-290" class="menu-path-node-72"><a href="72" title="Instructions for presenters">Instructions for presenters</a></li>
+<li id="menu-291" class="menu-path-node-73"><a href="73" title="Program">Program</a></li>
+</ul>
+</div>
+</div>
+<div id="block-nice_menus-1" class="clear-block block block-nice_menus">
+
+  <h2>39Jaiio</h2>
+
+  <div class="content"><ul class="nice-menu nice-menu-right" id="nice-menu-1"><li id="menu-136" class="menu-path-node-7"><a href="../inicio" title="Bienvenido a las 39jaiio">Bienvenido</a></li>
+<li id="menu-137" class="menu-path-node-9"><a href="../organizadores" title="Comité organizador">Organizadores</a></li>
+<li id="menu-328" class="menu-path-node-113"><a href="../voluntarios" title="Alumnos voluntarios">Alumnos voluntarios</a></li>
+<li id="menu-142" class="menuparent menu-path-node-11"><a href="../simposios" title="Simposios que componen las 39jaiio">Simposios</a><ul><li id="menu-257" class="menu-path-node-12"><a href="../asai" title="Argentine Symposium on Artificial Intelligence">ASAI</a></li>
+<li id="menu-258" class="menu-path-node-2"><a href="../asse" title="11th Argentine Symposium on Software Engineering">ASSE</a></li>
+<li id="menu-259" class="menu-path-node-5"><a href="../ast" title="11º Argentine Symposium on Technology">AST</a></li>
+<li id="menu-260" class="menu-path-node-16"><a href="../cai" title="2º Congreso de AgroInformática">CAI</a></li>
+<li id="menu-261" class="menu-path-node-30"><a href="../cais" title="Congreso Argentino de Informatica y Salud">CAIS</a></li>
+<li id="menu-262" class="menu-path-node-61"><a href="../est" title="Concurso de Trabajos Estudiantiles">EST</a></li>
+<li id="menu-263" class="menu-path-node-14"><a href="../hpc" title="3rd High-Performance Computing Symposium">HPC</a></li>
+<li id="menu-264" class="menu-path-node-6"><a href="../jii" title="7º Jornada de Informática Industrial">JII</a></li>
+<li id="menu-265" class="menu-path-node-15"><a href="../jsl" title="Jornadas de Software Libre">JSL</a></li>
+<li id="menu-271" class="menu-path-node-68"><a href="../jui" title="Jornadas de Vinculación Universidad-Industria">JUI</a></li>
+<li id="menu-266" class="menu-path-node-8"><a href="../sid" title="Simposio Argentino de Informática y Derecho">SID</a></li>
+<li id="menu-267" class="menu-path-node-4"><a href="../sie" title="4º Simposio Argentino de Informática en el Estado">SIE</a></li>
+<li id="menu-268" class="menu-path-node-3"><a href="../ssi" title="8° Simposio sobre la Sociedad de la Información">SSI</a></li>
+<li id="menu-269" class="menu-path-node-28"><a href="../wsegi" title="Workshop de Seguridad Informática">WSegI</a></li>
+<li id="menu-342" class="menu-path-node-125"><a href="125" title="Sesión Informativa &amp; Mesa Redonda PRO-IDEAL">PRO-IDEAL</a></li>
+</ul>
+</li>
+<li id="menu-140" class="menu-path-node-10"><a href="../fechas" title="Fechas importantes">Fechas importantes</a></li>
+<li id="menu-270" class="menu-path-node-46"><a href="../programa" title="Cronograma de las 39Jaiio">Programa</a></li>
+<li id="menu-141" class="menuparent menu-path-node-54"><a href="../instrucciones_inscripcion" title="Inscripción a las 39jaiio">Inscripción</a><ul><li id="menu-281" class="menu-path-node-55"><a href="../aranceles" title="Aranceles inscripción 39 JAIIO (en pesos argentinos)">Aranceles</a></li>
+<li id="menu-282" class="menu-path-node-54"><a href="../instrucciones_inscripcion" title="Instrucciones para inscribirse en las 39JAIIO">Instrucciones</a></li>
+</ul>
+</li>
+<li id="menu-283" class="menu-path-node-57"><a href="../oradores_invitados" title="Oradores Invitados">Oradores Invitados</a></li>
+<li id="menu-289" class="menu-path-node-70"><a href="../auspicios" title="Auspicios">Auspicios</a></li>
+<li id="menu-138" class="menu-path-node-45"><a href="../sponsors" title="Sponsors de las 39jaiio">Sponsors</a></li>
+<li id="menu-248" class="menu-path-node-29"><a href="../poster" title="Descargue el poster y los logos de las 39Jaiio">Descargue el poster y los logos</a></li>
+<li id="menu-288" class="menu-path-node-69"><a href="../contactos" title="Contactos 39JAIIO">Contactos</a></li>
+</ul>
+</div>
+</div>
+<div id="block-nice_menus-6" class="clear-block block block-nice_menus">
+
+  <h2>Proceedings</h2>
+
+  <div class="content"><ul class="nice-menu nice-menu-right" id="nice-menu-6"><li id="menu-294" class="menu-path-node-82"><a href="../inicio-anales" title="Presentación de los anales de las 39JAIIO">Presentación</a></li>
+<li id="menu-296" class="menu-path-node-9"><a href="../organizadores" title="Organizadores de las 39JAIIO">Organizadores</a></li>
+<li id="menu-298" class="menu-path-node-45"><a href="../sponsors" title="Sponsors de las 39JAIIO">Sponsors</a></li>
+<li id="menu-299" class="menu-path-node-70"><a href="../auspicios" title="Auspicios a las 39JAIIO">Auspicios</a></li>
+<li id="menu-302" class="menuparent menu-path-node-81"><a href="81" title="Proceedings of ASAI">ASAI</a><ul><li id="menu-303" class="menu-path-node-81"><a href="81" title="Presentación de los Anales de ASAI">Presentación</a></li>
+<li id="menu-301" class="menu-path-node-83"><a href="83" title="Contribuciones al ASAI">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-304" class="menuparent menu-path-node-84"><a href="84" title="Proceedings of ASSE">ASSE</a><ul><li id="menu-305" class="menu-path-node-84"><a href="84" title="Presentación de los Anales de ASAI 2010">Presentación</a></li>
+<li id="menu-306" class="menu-path-node-85"><a href="85" title="Contributions to ASSE">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-316" class="menuparent menu-path-node-93"><a href="93" title="Proceedings of the AST 2010">AST</a><ul><li id="menu-317" class="menu-path-node-93"><a href="93" title="Presentación del AST 2010">Presentación</a></li>
+<li id="menu-318" class="menu-path-node-90"><a href="90" title="Contribuciones al AST 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-307" class="menuparent menu-path-node-87"><a href="87" title="Anales de CAI 2010">CAI</a><ul><li id="menu-309" class="menu-path-node-87"><a href="87" title="Presentación de los Anales del CAI 2010">Presentación</a></li>
+<li id="menu-308" class="menu-path-node-86"><a href="86" title="Contribuciones al CAI 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-335" class="menuparent menu-path-node-119"><a href="119" title="Anales del CAIS 2010">CAIS</a><ul><li id="menu-337" class="menu-path-node-119"><a href="119" title="Presentación de los Anales del CAIS 2010">Presentación</a></li>
+<li id="menu-336" class="menu-path-node-120"><a href="120" title="Contribuciones al CAIS 2010">Contribuciones</a></li>
+<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="http://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
+</ul>
+</li>
+<li id="menu-310" class="menuparent menu-path-node-89"><a href="89" title="Anales de EST 2010">EST</a><ul><li id="menu-311" class="menu-path-node-89"><a href="89" title="Presentación de los Anales del EST 2010">Presentación</a></li>
+<li id="menu-312" class="menu-path-node-88"><a href="88" title="Contribuciones al EST 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-338" class="menuparent menu-path-node-122"><a href="122" title="Proceedings of the HPC 2010">HPC</a><ul><li id="menu-339" class="menu-path-node-122"><a href="122" title="Presentación de los Anales del HPC 2010">Presentación</a></li>
+<li id="menu-340" class="menu-path-node-121"><a href="121" title="Contribuciones al HPC 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-324" class="menuparent menu-path-node-97"><a href="97" title="Anales de la JII 2010">JII</a><ul><li id="menu-326" class="menu-path-node-97"><a href="97" title="Presentación de los Anales de las JII 2010">Presentación</a></li>
+<li id="menu-325" class="menu-path-node-98"><a href="98" title="Contribuciones a la JII 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-329" class="menuparent menu-path-node-116"><a href="116" title="Anales de la JSL 2010">JSL</a><ul><li id="menu-330" class="menu-path-node-116"><a href="116" title="Presentación de los Anales de la JSL 2010">Presentación</a></li>
+<li id="menu-331" class="menu-path-node-115"><a href="115" title="Contribuciones a la JSL 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-322" class="menuparent menu-path-node-96"><a href="96" title="Anales del SID 2010">SID</a><ul><li id="menu-323" class="menu-path-node-96"><a href="96" title="Presentación de los Anales del SID 2010">Presentación</a></li>
+<li id="menu-327" class="menu-path-node-99"><a href="99" title="Contribuciones al SID 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-313" class="menuparent menu-path-node-92"><a href="92" title="Anales de SIE 2010">SIE</a><ul><li id="menu-314" class="menu-path-node-92"><a href="92" title="Presentación de los Anales del SIE 2010">Presentación</a></li>
+<li id="menu-315" class="menu-path-node-91"><a href="91" title="Contribuciones al SIE 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-332" class="menuparent menu-path-node-118"><a href="118" title="Anales del SSI 2010">SSI</a><ul><li id="menu-333" class="menu-path-node-118"><a href="118" title="Presentación de los Anales del SSI 2010">Presentación</a></li>
+<li id="menu-334" class="menu-path-node-117"><a href="117" title="Contribuciones al SSI 2010">Contribuciones</a></li>
+</ul>
+</li>
+<li id="menu-319" class="menuparent menu-path-node-95"><a href="95" title="Anales del WSegI 2010">WSegI</a><ul><li id="menu-320" class="menu-path-node-95"><a href="95" title="Presentación de los Anales del WSegI 2010">Presentación</a></li>
+<li id="menu-321" class="menu-path-node-94"><a href="94" title="Contribuciones al WSegI 2010">Contribuciones</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <div class="breadcrumb"><a href="../index.html">Inicio</a></div>                              <h2>Argentine Symposium on Artificial Intelligence</h2>                                                  <div class="clear-block">
+            <div id="node-52" class="node">
+
+
+
+  
+  <div class="content clear-block">
+    <h3><img style="float: left;" src="http://www.exa.unicen.edu.ar/asai2010/talk.png" alt="*" width="16" height="16" /></h3>
+<h3>Intelligent Tutoring Systems: New challenges and Directions</h3>
+<div><img style="float: right;" src="http://www.exa.unicen.edu.ar/asai2010/cristina_conati.jpg" alt="Cristina Conati" width="150" height="190" /><strong>Dr. Cristina Conati</strong></div>
+<div>University of British Columbia, Canada</div>
+<div><strong>Abstract</strong></div>
+<div>
+<div>Can we devise educational systems that provide individualized instruction tailored to the needs of the individual learners, as many good teachers do? Intelligent Tutoring Systems is the interdisciplinary field that investigates this question by integrating research in Artificial Intelligence, Cognitive Science and Education. Successful intelligent tutoring systems have been deployed to support traditional problem solving activities by tailoring the instruction to the student's domain knowledge. &nbsp;</div>
+<div>In this talk, I will present a variety of projects that illustrate our efforts to extend the scope of intelligent tutors to both support novel forms of pedagogical interactions (e.g., example-based and exploration-based learning) and adapt to student's traits beyond knowledge (e.g., student's meta-cognitive abilities and affective states). I will discuss the challenges of this research, the results that we have achieved so far and future opportunities.</div>
+<p><strong>Short Bio</strong></p></div>
+<div>Cristina Conati is an Associate Professor of Computer Science at the University of British Columbia. She received her M.Sc. degree in Computer Science from the University of Milan, Italy (1988), and an M.Sc. (1996) and Ph.D. (1999) in Artificial Intelligence from the University of Pittsburgh. Dr. Conati's areas of interest include Adaptive Interfaces, Intelligent Tutoring Systems, UserModeling, and Affective Computing. She published over 50 strictly refereed articles, and received best paper awards from the international conferences on User Modeling, AI in Education, Intelligent User Interfaces, and the Journal of User Modeling and User-Adapted Interaction.</div>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+          </div>
+                    <div id="footer">Community Master: Danilo Zecchin - <a href="mailto:dzecchin@lifia.info.unlp.edu.ar">dzecchin@lifia.info.unlp.edu.ar</a></div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript" src="../modules/google_analytics/googleanalytics.js?z"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-11987301-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+  </body>
+</html>
