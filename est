@@ -6,21 +6,21 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="sites/default/files/garland_favicon.ico" type="image/x-icon" />
     <title>Concurso de Trabajos Estudiantiles | 39jaiio</title>
-    <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/nice_menus/nice_menus.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/nice_menus/nice_menus_default.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/upload_element/upload_element.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="modules/user/user.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="sites/default/files/color/garland-38173c7b/style.css?z" />
-<link type="text/css" rel="stylesheet" media="print" href="themes/garland/print.css?z" />
-    <script type="text/javascript" src="misc/jquery.js?z"></script>
-<script type="text/javascript" src="misc/drupal.js?z"></script>
-<script type="text/javascript" src="sites/default/files/languages/es_c5e3223b4990bdc4b3c620e034b929e5.js?z"></script>
-<script type="text/javascript" src="modules/nice_menus/nice_menus.js?z"></script>
+    <link type="text/css" rel="stylesheet" media="all" href="modules/aggregator/aggregator.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/nice_menus/nice_menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/nice_menus/nice_menus_default.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/upload_element/upload_element.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/default/files/color/garland-38173c7b/style.css" />
+<link type="text/css" rel="stylesheet" media="print" href="themes/garland/print.css" />
+    <script type="text/javascript" src="misc/jquery.js"></script>
+<script type="text/javascript" src="misc/drupal.js"></script>
+<script type="text/javascript" src="sites/default/files/languages/es_c5e3223b4990bdc4b3c620e034b929e5.js"></script>
+<script type="text/javascript" src="modules/nice_menus/nice_menus.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
@@ -203,7 +203,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
   </div>
 <!-- /layout -->
 
-  <script type="text/javascript" src="modules/google_analytics/googleanalytics.js?z"></script>
+  <script type="text/javascript" src="modules/google_analytics/googleanalytics.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
