@@ -1,6 +1,6 @@
 ASAI 2010 - Final Call For Papers
 39 JAIIO - 39 Argentine Conference of Informatics - www.39jaiio.org.ar
-August 30th to September 3th, 2010 - Ciudad Autónoma de Buenos Aires
+August 30th to September 3th, 2010 - Ciudad Autï¿½noma de Buenos Aires
 
 Since 1961, SADIO (Argentine Society for Informatics) organizes JAIIO (Argentine Conference of Informatics). JAIIO is one of the most relevant events for the national and regional IT sector, with participants from both industry and academia.
 
@@ -16,7 +16,7 @@ INTRODUCTION
 ============
 ASAI, the Argentine Symposium on Artificial Intelligence, is an annual event intended to be the main forum of the Artificial Intelligence (AI) community in Argentina. The symposium aims at providing a forum for researchers and AI community members to discuss and exchange ideas and experiences on diverse topics of AI. Previous ASAI editions stimulated presentations on both applications of AI and new tools and foundations currently under development. 
 
-The XI Argentine Symposium on Artificial Intelligence (ASAI 2010) will be held during  30th – 31th August 2010, in Buenos Aires, Argentina. ASAI 2010 will be part of the 39th JAIIO, the 39th Argentine Conference on Informatics, organized by SADIO.
+The XI Argentine Symposium on Artificial Intelligence (ASAI 2010) will be held during  30th ï¿½ 31th August 2010, in Buenos Aires, Argentina. ASAI 2010 will be part of the 39th JAIIO, the 39th Argentine Conference on Informatics, organized by SADIO.
 
 TOPICS OF INTEREST
 ==================
@@ -41,32 +41,32 @@ TOPICS OF INTEREST
 
 PROGARM CO-CHAIRS
 =================
-Dr. Marcelo G. Armentano, ISISTAN Research Institute – Universidad Nacional del Centro de la Provincia de Buenos Aires, Tandil, Argentina
-Dr. Pablo M. Granitto, CIFASIS - Centro Internacional Franco Argentino de Ciencias de la Información y Sistemas, UNR-CONICET, Rosario, Argentina
+Dr. Marcelo G. Armentano, ISISTAN Research Institute ï¿½ Universidad Nacional del Centro de la Provincia de Buenos Aires, Tandil, Argentina
+Dr. Pablo M. Granitto, CIFASIS - Centro Internacional Franco Argentino de Ciencias de la Informaciï¿½n y Sistemas, UNR-CONICET, Rosario, Argentina
 
 PROGRAM COMMITTEE
 =================
 - Dr. Juan Carlos Augusto (School of Computing and Mathematics, University of Ulster at Jordanstown, UK)
 - Dr. Jie Bao  (Semantic Web and Description Logics, Department of Computer Science, Rensselaer Polytechnic Institute, USA)
-- Dr. Luis S. Berdún (ISISTAN, Universidad Nacional del Centro de la Pcia. de Bs. As., Argentina)
-- Dr. Facundo Bromberg (Universidad Tecnológica Nacional, Facultad Regional Mendoza, Mendoza, Argentina)
+- Dr. Luis S. Berdï¿½n (ISISTAN, Universidad Nacional del Centro de la Pcia. de Bs. As., Argentina)
+- Dr. Facundo Bromberg (Universidad Tecnolï¿½gica Nacional, Facultad Regional Mendoza, Mendoza, Argentina)
 - Dr. Olivier Boissier (ENS Mines Saint-Etienne, France)
-- Dr. Carlos Iván Chesñevar (Universidad Nacional del Sur, Argentina, and Universidad de Lleida, Spain)
-- Dr. Cristina Conati (University of British Columbia, Canadá)
+- Dr. Carlos Ivï¿½n Chesï¿½evar (Universidad Nacional del Sur, Argentina, and Universidad de Lleida, Spain)
+- Dr. Cristina Conati (University of British Columbia, Canadï¿½)
 - Dr. Juan Manuel Corchado (GSII, Universidad de Salamanca, Spain)
 - Dr. Rosanna Costaguta (Universidad Nacional de Santiago del Estero, Argentina)
 - Dr. Yves Demazeau (CNRS-LIG, France)
 - Dr. Elena Duran (Universidad Nacional de Santiago del Estero, Argentina)
 - Dr. Alejandro Garcia (Universidad Nacional del Sur, Argentina)
 - Dr. Daniela Godoy (ISISTAN, Universidad Nacional del Centro de la Pcia. de Buenos Aires, Argentina)
-- Dr. Juan Carlos Gómez (Universidad Nacional de Rosario, Argentina)
-- Dr. Gabriel Infante-Lopez (FaMAF, Universidad Nacional de Córdoba, Argentina)
-- Dr. Pedro Larragraña (Universidad Politécnica de Madrid, España)
-- Dr. Huei Diana Lee (Laboratório de Bioinformática, Universidade Estadual do Oeste do Paraná, Foz do Iguaçu, Brazil)
-- Dr. Ana Gabriela Maguitman (Dpto. de Ciencias e Ingeniería de la Computación Universidad Nacional del Sur, UNS)
+- Dr. Juan Carlos Gï¿½mez (Universidad Nacional de Rosario, Argentina)
+- Dr. Gabriel Infante-Lopez (FaMAF, Universidad Nacional de Cï¿½rdoba, Argentina)
+- Dr. Pedro Larragraï¿½a (Universidad Politï¿½cnica de Madrid, Espaï¿½a)
+- Dr. Huei Diana Lee (Laboratï¿½rio de Bioinformï¿½tica, Universidade Estadual do Oeste do Paranï¿½, Foz do Iguaï¿½u, Brazil)
+- Dr. Ana Gabriela Maguitman (Dpto. de Ciencias e Ingenierï¿½a de la Computaciï¿½n Universidad Nacional del Sur, UNS)
 - Dr. Dimitris Margaritis (Department of Computer Science, Iowa State University, USA)
 - Dr. Diego Milone (Laboratory for signals and computational intelligence, Universidad Nacional del Litoral, Santa Fe, Argentina)
-- Dr. María Carolina Monard (Universidade de São Paulo, Brazil)
+- Dr. Marï¿½a Carolina Monard (Universidade de Sï¿½o Paulo, Brazil)
 - Dr. Ariel Monteserin (ISISTAN, Universidad Nacional del Centro de la Pcia. de Bs. As., Argentina)
 - Dr. Ronaldo Prati (Universidade Federal do ABC, Brazil)
 - Dr. Silvia Schiaffino (ISISTAN, Universidad Nacional del Centro de la Pcia. de Bs. As., Argentina)
@@ -78,10 +78,10 @@ PAPER SUBMISSION
 ================
 ASAI 2010 seeks original contributions in a wide spectrum of Artificial Intelligence, ranging from state-of-the-art academic research to industrial and business applications having a significant impact. The symposium will consist of invited talks and regular paper sessions presenting mature work (full papers) in theoretical research and applications. A poster session will be devoted to the presentation of new ideas and less mature work in general (extended abstracts).
 Submissions are due before April 26th. Delayed submissions will most likely be rejected. All papers received before the deadline will be peer-reviewed by referees of the area.
-The submission of manuscripts must follow the format available at http://www.springer.de/comp/lncs/authors.html. The page limit for a full paper is 12 pages. Extended abstracts describing novel research visions, work-in-progress or less mature results are also welcome, with a limit of 4 pages. All contributions should be submitted in Ghostview-readable Postscript or PDF formats. For diffusion reasons, papers in English are strongly recommended (Spanish is also acceptable). 
+The submission of manuscripts must follow the format available at https://www.springer.de/comp/lncs/authors.html. The page limit for a full paper is 12 pages. Extended abstracts describing novel research visions, work-in-progress or less mature results are also welcome, with a limit of 4 pages. All contributions should be submitted in Ghostview-readable Postscript or PDF formats. For diffusion reasons, papers in English are strongly recommended (Spanish is also acceptable). 
 Information on the format of the camera-ready copy will be forwarded with the acceptance letter.  Each accepted paper must be presented in the symposium, and the presenter must be registered in the conference.
 
-An online system is available to submit the articles. Find further information and instructions at: http://www.39jaiio.org.ar/node/49
+An online system is available to submit the articles. Find further information and instructions at: https://www.39jaiio.org.ar/node/49
 
 IMPORTANT DATES
 ===============
@@ -93,4 +93,4 @@ CONTACT
 =======
 For further information, please send an e-mail to: 
 asai2010@exa.unicen.edu.ar or visit: 
-http://www.exa.unicen.edu.ar/asai2010/
+https://www.exa.unicen.edu.ar/asai2010/

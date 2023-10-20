@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -42,12 +42,12 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
         <div id="logo-floater">
         <h1><a href="index.html" title=""><img src="sites/default/files/garland_logo.png" alt="" id="logo" /></a></h1>        </div>
 
-                  <ul class="links primary-links"><li class="menu-128 first"><a href="http://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
-<li class="menu-143"><a href="http://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
-<li class="menu-144"><a href="http://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
-<li class="menu-160"><a href="http://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
-<li class="menu-244"><a href="http://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
-<li class="menu-243 last"><a href="http://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
+                  <ul class="links primary-links"><li class="menu-128 first"><a href="https://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
+<li class="menu-143"><a href="https://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
+<li class="menu-144"><a href="https://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
+<li class="menu-160"><a href="https://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
+<li class="menu-244"><a href="https://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
+<li class="menu-243 last"><a href="https://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
 </ul>                                  
       </div> <!-- /header -->
 
@@ -137,7 +137,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 </li>
 <li id="menu-335" class="menuparent menu-path-node-119"><a href="node/119" title="Anales del CAIS 2010">CAIS</a><ul><li id="menu-337" class="menu-path-node-119"><a href="node/119" title="Presentación de los Anales del CAIS 2010">Presentación</a></li>
 <li id="menu-336" class="menu-path-node-120"><a href="node/120" title="Contribuciones al CAIS 2010">Contribuciones</a></li>
-<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="http://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
+<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="https://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
 </ul>
 </li>
 <li id="menu-310" class="menuparent menu-path-node-89"><a href="node/89" title="Anales de EST 2010">EST</a><ul><li id="menu-311" class="menu-path-node-89"><a href="node/89" title="Presentación de los Anales del EST 2010">Presentación</a></li>
@@ -185,17 +185,17 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 
   
   <div class="content clear-block">
-    <h2><img style="float: left;" src="http://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" />Introduction</h2>
+    <h2><img style="float: left;" src="https://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" />Introduction</h2>
 <p>
 ASAI, the Argentine Symposium on Artificial Intelligence, is an annual event intended to be the main forum of the Artificial Intelligence (AI) community in Argentina. The symposium aims at providing a forum for researchers and AI community members to discuss and exchange ideas and experiences on diverse topics of AI. Previous ASAI editions stimulated presentations on both applications of AI and new tools and foundations currently under development.</p>
 <p>The XI Argentine Symposium on Artificial Intelligence (ASAI 2010) will be held during  30th - 31th August 2010, in Buenos Aires, Argentina. ASAI 2010 will be part of the 39th JAIIO, the 39th Argentine Conference on Informatics, organized by SADIO.</p>
-<h2 style="font-size: 19px; font-weight: normal; font-family: Helvetica, Arial, sans-serif; line-height: 24px; padding: 0px; margin: 0px;"><img style="float: left;" src="http://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" /></h2>
+<h2 style="font-size: 19px; font-weight: normal; font-family: Helvetica, Arial, sans-serif; line-height: 24px; padding: 0px; margin: 0px;"><img style="float: left;" src="https://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" /></h2>
 <h2>Preliminar Call for Papers</h2>
 <ul>
-<li><a title="Final CFP" href="http://www.39jaiio.org.ar/sites/default/files/ASAI%202010%20-%20Final%20CFP.txt" target="_blank">Download TXT</a></li>
-<li><a title="Final CFP" href="http://www.39jaiio.org.ar/sites/default/files/ASAI%202010%20-%20Final%20CFP.pdf" target="_self">Download PDF</a></li>
+<li><a title="Final CFP" href="https://www.39jaiio.org.ar/sites/default/files/ASAI%202010%20-%20Final%20CFP.txt" target="_blank">Download TXT</a></li>
+<li><a title="Final CFP" href="https://www.39jaiio.org.ar/sites/default/files/ASAI%202010%20-%20Final%20CFP.pdf" target="_self">Download PDF</a></li>
 </ul>
-<h2><img style="float: left;" src="http://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" /></h2>
+<h2><img style="float: left;" src="https://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" /></h2>
 <h2>Important Dates</h2>
 <ul>
 <li><span style="font-family: Verdana,sans-serif; font-size: 12px; font-weight: bold; line-height: 20px;">May 17th, 2010<span style="font-weight: normal;">&nbsp;</span></span><strong><span style="font-weight: normal;"><strong><span style="font-weight: normal;"> : Deadline for submissions of papers&nbsp;<span style="color: #ff0000;">*DEADLINE EXTENDED*</span></span></strong></span></strong></li>
@@ -204,17 +204,17 @@ ASAI, the Argentine Symposium on Artificial Intelligence, is an annual event int
 <li><strong>June 28<sup>th</sup>, 2010</strong> : Deadline for camera ready submissions
 </li>
 </ul>
-<h2><img style="float: left;" src="http://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" /></h2>
+<h2><img style="float: left;" src="https://www.exa.unicen.edu.ar/asai2010/bullet1.png" alt="" width="24" height="24" /></h2>
 <h2>Contact</h2>
 <p>
-For further information, please send an e-mail to: <a href="mailto:asai2010@exa.unicen.edu.ar">asai2010@exa.unicen.edu.ar</a> or visit: <a href="http://www.exa.unicen.edu.ar/asai2010/" title="http://www.exa.unicen.edu.ar/asai2010/">http://www.exa.unicen.edu.ar/asai2010/</a></p>
+For further information, please send an e-mail to: <a href="mailto:asai2010@exa.unicen.edu.ar">asai2010@exa.unicen.edu.ar</a> or visit: <a href="https://www.exa.unicen.edu.ar/asai2010/" title="https://www.exa.unicen.edu.ar/asai2010/">https://www.exa.unicen.edu.ar/asai2010/</a></p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong>Become our fan on Facebook</strong><br /><a title="ASAI 2010 on Facebook" href="http://www.facebook.com/pages/ASAI-2010/194099405221" target="_blank"><img style="border: 0;" src="http://badge.facebook.com/badge/194099405221.2661.784096314.png" alt="ASAI 2010" width="120" height="223" /></a></p>
+<p style="text-align: center;"><strong>Become our fan on Facebook</strong><br /><a title="ASAI 2010 on Facebook" href="https://www.facebook.com/pages/ASAI-2010/194099405221" target="_blank"><img style="border: 0;" src="https://badge.facebook.com/badge/194099405221.2661.784096314.png" alt="ASAI 2010" width="120" height="223" /></a></p>
 <table id="attachments" class="sticky-enabled">
  <thead><tr><th>Adjunto</th><th>Tamaño</th> </tr></thead>
 <tbody>
- <tr class="odd"><td><a href="http://39jaiio.sadio.org.ar/sites/default/files/ASAI 2010 - Final CFP.pdf">ASAI 2010 - Final CFP.pdf</a></td><td>42.06 KB</td> </tr>
- <tr class="even"><td><a href="http://39jaiio.sadio.org.ar/sites/default/files/ASAI 2010 - Final CFP.txt">ASAI 2010 - Final CFP.txt</a></td><td>6.71 KB</td> </tr>
+ <tr class="odd"><td><a href="https://39jaiio.sadio.org.ar/sites/default/files/ASAI 2010 - Final CFP.pdf">ASAI 2010 - Final CFP.pdf</a></td><td>42.06 KB</td> </tr>
+ <tr class="even"><td><a href="https://39jaiio.sadio.org.ar/sites/default/files/ASAI 2010 - Final CFP.txt">ASAI 2010 - Final CFP.txt</a></td><td>6.71 KB</td> </tr>
 </tbody>
 </table>
   </div>
@@ -238,7 +238,7 @@ For further information, please send an e-mail to: <a href="mailto:asai2010@exa.
   <script type="text/javascript" src="modules/google_analytics/googleanalytics.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 //--><!]]>
 </script>
 <script type="text/javascript">

@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -41,12 +41,12 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
         <div id="logo-floater">
         <h1><a href="../index.html" title=""><img src="../sites/default/files/garland_logo.png" alt="" id="logo" /></a></h1>        </div>
 
-                  <ul class="links primary-links"><li class="menu-128 first"><a href="http://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
-<li class="menu-143"><a href="http://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
-<li class="menu-144"><a href="http://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
-<li class="menu-160"><a href="http://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
-<li class="menu-244"><a href="http://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
-<li class="menu-243 last"><a href="http://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
+                  <ul class="links primary-links"><li class="menu-128 first"><a href="https://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
+<li class="menu-143"><a href="https://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
+<li class="menu-144"><a href="https://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
+<li class="menu-160"><a href="https://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
+<li class="menu-244"><a href="https://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
+<li class="menu-243 last"><a href="https://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
 </ul>                                  
       </div> <!-- /header -->
 
@@ -115,7 +115,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 </li>
 <li id="menu-335" class="menuparent menu-path-node-119"><a href="119" title="Anales del CAIS 2010">CAIS</a><ul><li id="menu-337" class="menu-path-node-119"><a href="119" title="Presentación de los Anales del CAIS 2010">Presentación</a></li>
 <li id="menu-336" class="menu-path-node-120"><a href="120" title="Contribuciones al CAIS 2010">Contribuciones</a></li>
-<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="http://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
+<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="https://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
 </ul>
 </li>
 <li id="menu-310" class="menuparent menu-path-node-89"><a href="89" title="Anales de EST 2010">EST</a><ul><li id="menu-311" class="menu-path-node-89"><a href="89" title="Presentación de los Anales del EST 2010">Presentación</a></li>
@@ -165,8 +165,8 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
   <div class="content clear-block">
     <h3><strong>David Garlan</strong></h3>
 <h4><em>Short Biography</em></h4>
-<p><img style="float: right;" src="http://www.39jaiio.org.ar/sites/default/files/garlan_david_pic.JPG" alt="David Garlan" width="115" height="150" /></p>
-<p>David&nbsp;Garlan&nbsp;is a Professor of Computer Science and Director of Software Engineering Professional Programs in the School of Computer Science at Carnegie Mellon University. He received his Ph.D. from Carnegie Mellon in 1987. His interests include software architecture, self-adaptive systems, formal methods, and cyber-physical systems.<br />He is considered to be one of the founders of the field of software architecture, and, in particular, formal&nbsp; representation and analysis of architectural designs. He has published numerous articles and co-authored two books about software architecture. In 2005 he received a Stevens Award Citation for "fundamental contributions to the development and understanding of software architecture as a discipline in software engineering".<br />Web Site: <a href="http://www.cs.cmu.edu/~garlan/">http://www.cs.cmu.edu/~garlan/</a></p>
+<p><img style="float: right;" src="https://www.39jaiio.org.ar/sites/default/files/garlan_david_pic.JPG" alt="David Garlan" width="115" height="150" /></p>
+<p>David&nbsp;Garlan&nbsp;is a Professor of Computer Science and Director of Software Engineering Professional Programs in the School of Computer Science at Carnegie Mellon University. He received his Ph.D. from Carnegie Mellon in 1987. His interests include software architecture, self-adaptive systems, formal methods, and cyber-physical systems.<br />He is considered to be one of the founders of the field of software architecture, and, in particular, formal&nbsp; representation and analysis of architectural designs. He has published numerous articles and co-authored two books about software architecture. In 2005 he received a Stevens Award Citation for "fundamental contributions to the development and understanding of software architecture as a discipline in software engineering".<br />Web Site: <a href="https://www.cs.cmu.edu/~garlan/">https://www.cs.cmu.edu/~garlan/</a></p>
 <h4><em>Abstract</em></h4>
 <p>Critical physical infrastructures—the power grid, transportation systems, building environments—are distributed physical systems that are monitored&nbsp; and controlled by large networked embedded computing systems that rely on software of ever-growing size and complexity. Unfortunately, today’s models and methods for analysis and design of such systems are typically fragmented along lines defined by disparate mathematical formalisms and&nbsp; dissimilar methodologies in engineering and computer science. As a consequence it is hard to reason about design tradeoffs that span cyber and physical domains, or to understand how to reconcile analyses produced by various formal models. In this talk we describe a new approach in which software architecture models are extended to incorporate physical elements, and to provide a common framework integration framework for analysis using a variety of modeling formalisms, each formalism projected onto its own architectural view of the system.</p>
 <h4><em>Horario y lugar</em></h4>
@@ -192,7 +192,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
   <script type="text/javascript" src="../modules/google_analytics/googleanalytics.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 //--><!]]>
 </script>
 <script type="text/javascript">

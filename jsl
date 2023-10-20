@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -41,12 +41,12 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
         <div id="logo-floater">
         <h1><a href="index.html" title=""><img src="sites/default/files/garland_logo.png" alt="" id="logo" /></a></h1>        </div>
 
-                  <ul class="links primary-links"><li class="menu-128 first"><a href="http://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
-<li class="menu-143"><a href="http://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
-<li class="menu-144"><a href="http://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
-<li class="menu-160"><a href="http://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
-<li class="menu-244"><a href="http://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
-<li class="menu-243 last"><a href="http://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
+                  <ul class="links primary-links"><li class="menu-128 first"><a href="https://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
+<li class="menu-143"><a href="https://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
+<li class="menu-144"><a href="https://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
+<li class="menu-160"><a href="https://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
+<li class="menu-244"><a href="https://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
+<li class="menu-243 last"><a href="https://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
 </ul>                                  
       </div> <!-- /header -->
 
@@ -115,7 +115,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 </li>
 <li id="menu-335" class="menuparent menu-path-node-119"><a href="node/119" title="Anales del CAIS 2010">CAIS</a><ul><li id="menu-337" class="menu-path-node-119"><a href="node/119" title="Presentación de los Anales del CAIS 2010">Presentación</a></li>
 <li id="menu-336" class="menu-path-node-120"><a href="node/120" title="Contribuciones al CAIS 2010">Contribuciones</a></li>
-<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="http://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
+<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="https://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
 </ul>
 </li>
 <li id="menu-310" class="menuparent menu-path-node-89"><a href="node/89" title="Anales de EST 2010">EST</a><ul><li id="menu-311" class="menu-path-node-89"><a href="node/89" title="Presentación de los Anales del EST 2010">Presentación</a></li>
@@ -177,13 +177,13 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 <p>1. <span style="text-decoration: underline;">Modalidad Proyectos y Experiencias</span><br />Tiene como objetivo exponer iniciativas innovadoras en el uso y desarrollo de software libre que contribuyan a su desarrollo, aplicación y difusión en nuestra sociedad.</p>
 <p>2. <span style="text-decoration: underline;">Modalidad Monografías</span><br />Tiene como objetivo exponer textos analíticos y de opinión sobre las dimensiones técnica, social, educativa y económica del Software Libre, y su contribución al desarrollo regional.</p>
 <p>PRESENTACIÓN</p>
-<p>1. La extensión máxima es de 20 páginas, letra tamaño 12, espaciado 1,5, hojas A4 (210x297mm), formato PDF.&nbsp; &nbsp;<br />2. En el centro de la primer página se debe incluir: Título del trabajo,Nombre y apellido, correo electrónico y pertenencia institucional de los autores, y modalidad del trabajo. <br />3. Al pié de la primer página los autores deben especificar el nombre y logo de la licencia con la que autorizan la distribución de este trabajo (dentro de cualquiera de las definidas por Creative Commons). Desde esta organización se recomienda la BY-SA (Atribución - Compartir derivadas de la misma forma). Para mas información, consultar en <a href="http://creativecommons.org/international/ar/ ">http://creativecommons.org/international/ar/ </a><br />4. Los trabajos deben incluir en su parte inicial un resumen de no más de 200 palabras, junto con las palabras clave asociadas (tags). <br />5. Los trabajos se pueden presentar en castellano, portugués o inglés en forma indistinta. <br />6. El material que se envíe no debe estar publicado ni estar bajo referato.&nbsp; &nbsp;<br />7. Los autores deberán informar si consideran que su trabajo puede ser compartido con otros simposios de las 39 JAIIO. <br />8. Los autores de trabajos aprobados podrán ser invitados a exponer los mismos durante el desarrollo de estas Jornadas. Se requerirá que al menos un autor se inscriba en las 39 JAIIO para que el trabajo sea publicado y solo los autores inscriptos podrán exponerlo. </p>
+<p>1. La extensión máxima es de 20 páginas, letra tamaño 12, espaciado 1,5, hojas A4 (210x297mm), formato PDF.&nbsp; &nbsp;<br />2. En el centro de la primer página se debe incluir: Título del trabajo,Nombre y apellido, correo electrónico y pertenencia institucional de los autores, y modalidad del trabajo. <br />3. Al pié de la primer página los autores deben especificar el nombre y logo de la licencia con la que autorizan la distribución de este trabajo (dentro de cualquiera de las definidas por Creative Commons). Desde esta organización se recomienda la BY-SA (Atribución - Compartir derivadas de la misma forma). Para mas información, consultar en <a href="https://creativecommons.org/international/ar/ ">https://creativecommons.org/international/ar/ </a><br />4. Los trabajos deben incluir en su parte inicial un resumen de no más de 200 palabras, junto con las palabras clave asociadas (tags). <br />5. Los trabajos se pueden presentar en castellano, portugués o inglés en forma indistinta. <br />6. El material que se envíe no debe estar publicado ni estar bajo referato.&nbsp; &nbsp;<br />7. Los autores deberán informar si consideran que su trabajo puede ser compartido con otros simposios de las 39 JAIIO. <br />8. Los autores de trabajos aprobados podrán ser invitados a exponer los mismos durante el desarrollo de estas Jornadas. Se requerirá que al menos un autor se inscriba en las 39 JAIIO para que el trabajo sea publicado y solo los autores inscriptos podrán exponerlo. </p>
 <p>ENVÍO DE TRABAJOS</p>
 <p>El envío de trabajos a cualquiera de los simposios de las 39Jaiio se hace por medio del sistema de gestión de conferencias de SADIO. Para enviar su trabajo necesita credenciales de acceso al sistema. A continuación le proveemos un link para obtener sus credenciales si aún no las tiene. Una vez que tenga sus credenciales de acceso, proceda por el link "Iniciar el proceso de envío de trabajos a JSL 2010".</p>
 <ul>
-<li><a href="http://www.39jaiio.org.ar/instrucciones-envio">Instrucciones detalladas para obtención de credenciales y envío de trabajos</a></li>
-<li><a href="http://190.247.127.144:8080/ocs/index.php/JAIIO39/JSL2010/user/account">Obtener credenciales de acceso en el sistema de gestión de conferencias de SADIO</a></li>
-<li><a href="http://190.247.127.144:8080/ocs/index.php/JAIIO39/JSL2010/presenter/submit?requiresPresenter=1">Iniciar el proceso de envío de trabajos a JSL 2010</a></li>
+<li><a href="https://www.39jaiio.org.ar/instrucciones-envio">Instrucciones detalladas para obtención de credenciales y envío de trabajos</a></li>
+<li><a href="https://190.247.127.144:8080/ocs/index.php/JAIIO39/JSL2010/user/account">Obtener credenciales de acceso en el sistema de gestión de conferencias de SADIO</a></li>
+<li><a href="https://190.247.127.144:8080/ocs/index.php/JAIIO39/JSL2010/presenter/submit?requiresPresenter=1">Iniciar el proceso de envío de trabajos a JSL 2010</a></li>
 </ul>
 <p>EVALUACIÓN DE LOS TRABAJOS</p>
 <p>* Se realizarán al menos dos evaluaciones "a ciegas" de cada trabajo. <br />* Se evaluará un conjunto de conceptos para cada Modalidad, calificando los mismos con un número dentro del rango 0-4. A su vez cada concepto tendrá&nbsp; predefinido un coeficiente de ponderación dentro del rango 0-4. <br />* Por ejemplo, si los conceptos A y B tuvieran peso 3 y 2 respectivamente, y sus evaluaciones fueran 1 y 4, el resultado de esa evaluación sería 3x1+2x4=11. <br />* La evaluación final del trabajo se obtendrá como promedio de las evaluaciones realizadas. <br />* Conceptos a evaluar y coeficientes de ponderación<br />&nbsp;&nbsp; * Modalidad Proyectos y Experiencias: Innovación (3), Relevancia (2), Efectividad (3), Facilidad de reproducción (2) <br />&nbsp;&nbsp; * Modalidad Monografías: Relevancia (4), Calidad (4), Bibliografia (2) </p>
@@ -191,15 +191,15 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 <p><strong>17 de Mayo 2010</strong> – Cierre de Recepción de Trabajos <span style="color: #ff0000;">*PLAZO DE ENTREGA EXTENDIDO*</span><br />14 de Junio 2010 – Notificación de Trabajos Aceptados<br />28 de Junio de 2010 – Recepción de Trabajos en formato “Camera Ready”, e inscripción de (al menos) un autor.<br />30 de Agosto&nbsp; 2010 –&nbsp; Inicio de las 39 JAIIO<br />3 de Septiembre&nbsp; 2010 – Clausura de las 39 JAIIO</p>
 <p>&nbsp;</p>
 <p>DOCUMENTOS DE LAS JSL 2010</p>
-<p><a href="http://docs.google.com/fileview?id=0B-m1lA0_l1phNGYwZWZiOGEtZjg4Ni00ZDY3LWFkNDAtYjc1YWU5ZDY5OTEw&amp;hl=es">CALL FOR PAPERS</a> (en formato PDF)</p>
-<p><a href="http://www.39jaiio.org.ar/node/144" target="_blank">PROGRAMA DETALLADO DE ACTIVIDADES Y PRESENTACIONES - <span style="color: #ff0000;"><strong>Actualizado</strong></span></a></p>
+<p><a href="https://docs.google.com/fileview?id=0B-m1lA0_l1phNGYwZWZiOGEtZjg4Ni00ZDY3LWFkNDAtYjc1YWU5ZDY5OTEw&amp;hl=es">CALL FOR PAPERS</a> (en formato PDF)</p>
+<p><a href="https://www.39jaiio.org.ar/node/144" target="_blank">PROGRAMA DETALLADO DE ACTIVIDADES Y PRESENTACIONES - <span style="color: #ff0000;"><strong>Actualizado</strong></span></a></p>
 <p>&nbsp;</p>
 <p>ORGANIZADORES</p>
 <p>Lic. Ricardo Pluss, CONICET<br />Lic. Matias Cerezo, FLACSO</p>
 <p>MIEMBROS DEL COMITÉ DE PROGRAMA</p>
 <p>Claudia Banchoff, UNLP<br />Gabriel Baum, INTI<br />Carlos Brys, Provincia de Misiones<br />Beatriz Busaniche, Via Libre<br />Ricardo Justo Castello, UNC<br />Daniel Coletti, CADESOL<br />Pablo Etcheverry, Facultad de Filosofía y Letras, UBA<br />Daniel Farías, CAFELUG<br />Patricia Giardini, Municipalidad de Rosario<br />Bernardo Diego González, Cedesol<br />Luis Herrera, UNS<br />Osmar Madsen, SIU<br />Martin Olivera, SOLAR<br />Djalma Valois, CDTC, ITI (Brasil)</p>
 <p>CONTACTO</p>
-<p>Contacto: jsl(arroba)39jaiio.org.ar<br />Visite: <a href="http://www.39jaiio.org.ar">http://www.39jaiio.org.ar</a></p>
+<p>Contacto: jsl(arroba)39jaiio.org.ar<br />Visite: <a href="https://www.39jaiio.org.ar">https://www.39jaiio.org.ar</a></p>
   </div>
 
   <div class="clear-block">
@@ -221,7 +221,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
   <script type="text/javascript" src="modules/google_analytics/googleanalytics.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 //--><!]]>
 </script>
 <script type="text/javascript">

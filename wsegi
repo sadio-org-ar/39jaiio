@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -42,12 +42,12 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
         <div id="logo-floater">
         <h1><a href="index.html" title=""><img src="sites/default/files/garland_logo.png" alt="" id="logo" /></a></h1>        </div>
 
-                  <ul class="links primary-links"><li class="menu-128 first"><a href="http://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
-<li class="menu-143"><a href="http://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
-<li class="menu-144"><a href="http://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
-<li class="menu-160"><a href="http://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
-<li class="menu-244"><a href="http://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
-<li class="menu-243 last"><a href="http://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
+                  <ul class="links primary-links"><li class="menu-128 first"><a href="https://www.sadio.org.ar/" title="Sociedad Argentina de Informática">SADIO</a></li>
+<li class="menu-143"><a href="https://www.bue.gov.ar/home/" title="Turismo en la Ciudad Autónoma de Buenos Aires">Turismo</a></li>
+<li class="menu-144"><a href="https://www.uade.edu.ar" title="Universidad Argentina de La Empresa - Sede de las 39jaiio">UADE</a></li>
+<li class="menu-160"><a href="https://www.info.unlp.edu.ar/" title="Facultad de Informática - UNLP">UNLP</a></li>
+<li class="menu-244"><a href="https://www.facebook.com/pages/39jaiio/185801703640" title="síganos en Facebook">en Facebook</a></li>
+<li class="menu-243 last"><a href="https://www.twitter.com/39jaiio" title="Síganos en Twitter">en Twitter</a></li>
 </ul>                                  
       </div> <!-- /header -->
 
@@ -116,7 +116,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 </li>
 <li id="menu-335" class="menuparent menu-path-node-119"><a href="node/119" title="Anales del CAIS 2010">CAIS</a><ul><li id="menu-337" class="menu-path-node-119"><a href="node/119" title="Presentación de los Anales del CAIS 2010">Presentación</a></li>
 <li id="menu-336" class="menu-path-node-120"><a href="node/120" title="Contribuciones al CAIS 2010">Contribuciones</a></li>
-<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="http://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
+<li id="menu-345" class="menu-path-www.39jaiio.org.ar-node-143"><a href="https://www.39jaiio.org.ar/node/143" title="">Conferencias</a></li>
 </ul>
 </li>
 <li id="menu-310" class="menuparent menu-path-node-89"><a href="node/89" title="Anales de EST 2010">EST</a><ul><li id="menu-311" class="menu-path-node-89"><a href="node/89" title="Presentación de los Anales del EST 2010">Presentación</a></li>
@@ -205,14 +205,14 @@ continuación le proveemos un link para obtener sus credenciales si aún<br />
 no las tiene. Una vez que tenga sus credenciales de acceso, proceda por<br />
 el link "Iniciar el proceso de envío de trabajos a WSegI 2010". </p>
 <ul>
-<li><a href="http://www.39jaiio.org.ar/instrucciones-envio">Instrucciones detalladas para obtención de credenciales y envío de trabajos</a></li>
-<li><a href="http://190.247.127.144:8080/ocs/index.php/JAIIO39/WSegI2010/user/account">Obtener credenciales de acceso en el sistema de gestión de conferencias de SADIO</a></li>
-<li><a href="http://190.247.127.144:8080/ocs/index.php/JAIIO39/WSegI2010/presenter/submit?requiresPresenter=1">Iniciar el proceso de envío de trabajos a WSegI 201</a></li>
+<li><a href="https://www.39jaiio.org.ar/instrucciones-envio">Instrucciones detalladas para obtención de credenciales y envío de trabajos</a></li>
+<li><a href="https://190.247.127.144:8080/ocs/index.php/JAIIO39/WSegI2010/user/account">Obtener credenciales de acceso en el sistema de gestión de conferencias de SADIO</a></li>
+<li><a href="https://190.247.127.144:8080/ocs/index.php/JAIIO39/WSegI2010/presenter/submit?requiresPresenter=1">Iniciar el proceso de envío de trabajos a WSegI 201</a></li>
 </ul>
 <ul>
 <li>Los autores deberán indicar si consideran que sus trabajos pueden ser compartidos con otros simposios.</li>
 <li>Los autores de trabajos aprobados podrán ser invitados a exponer los mismos durante el desarrollo del Workshop.</li>
-<li>Los trabajos deberán tener un máximo de 15 páginas en papel A4 y deben incluir un abstract de hasta 200 palabras. El formato del documento de los trabajos es PDF y se recomienda adherirse al formato de las LNCS de Springer.<br /><a href="http://www.springer.com/computer+science/lncs?SGWID=0-164-6-793341-0" title="http://www.springer.com/computer+science/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer+science/lncs?SGWID=0-164-6-793341-0</a></li>
+<li>Los trabajos deberán tener un máximo de 15 páginas en papel A4 y deben incluir un abstract de hasta 200 palabras. El formato del documento de los trabajos es PDF y se recomienda adherirse al formato de las LNCS de Springer.<br /><a href="https://www.springer.com/computer+science/lncs?SGWID=0-164-6-793341-0" title="https://www.springer.com/computer+science/lncs?SGWID=0-164-6-793341-0">https://www.springer.com/computer+science/lncs?SGWID=0-164-6-793341-0</a></li>
 <li>Los artículos deberán estar escritos en castellano o inglés.</li>
 </ul>
 <h2><span style="font-family: Helvetica, Arial, sans-serif; line-height: 24px; font-size: 19px;">Comité de Programa (Preliminar)</span></h2>
@@ -254,9 +254,9 @@ el link "Iniciar el proceso de envío de trabajos a WSegI 2010". </p>
 <table id="attachments" class="sticky-enabled">
  <thead><tr><th>Adjunto</th><th>Tamaño</th> </tr></thead>
 <tbody>
- <tr class="odd"><td><a href="http://39jaiio.sadio.org.ar/sites/default/files/Guia para la elaboracion de presentaciones.pdf">Guia para la elaboracion de presentaciones.pdf</a></td><td>65.49 KB</td> </tr>
- <tr class="even"><td><a href="http://39jaiio.sadio.org.ar/sites/default/files/CFP Workshop de Seguridad Informatica-2010_0.pdf">CFP Workshop de Seguridad Informatica-2010.pdf</a></td><td>134.65 KB</td> </tr>
- <tr class="odd"><td><a href="http://39jaiio.sadio.org.ar/sites/default/files/Information Security Workshop CFP 2010-english version.pdf">Information Security Workshop CFP 2010-english version.pdf</a></td><td>136.62 KB</td> </tr>
+ <tr class="odd"><td><a href="https://39jaiio.sadio.org.ar/sites/default/files/Guia para la elaboracion de presentaciones.pdf">Guia para la elaboracion de presentaciones.pdf</a></td><td>65.49 KB</td> </tr>
+ <tr class="even"><td><a href="https://39jaiio.sadio.org.ar/sites/default/files/CFP Workshop de Seguridad Informatica-2010_0.pdf">CFP Workshop de Seguridad Informatica-2010.pdf</a></td><td>134.65 KB</td> </tr>
+ <tr class="odd"><td><a href="https://39jaiio.sadio.org.ar/sites/default/files/Information Security Workshop CFP 2010-english version.pdf">Information Security Workshop CFP 2010-english version.pdf</a></td><td>136.62 KB</td> </tr>
 </tbody>
 </table>
   </div>
@@ -280,7 +280,7 @@ el link "Iniciar el proceso de envío de trabajos a WSegI 2010". </p>
   <script type="text/javascript" src="modules/google_analytics/googleanalytics.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 //--><!]]>
 </script>
 <script type="text/javascript">
