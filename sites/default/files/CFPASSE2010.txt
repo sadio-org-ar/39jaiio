@@ -1,4 +1,4 @@
-39 JAIIO - 39th Argentine Conference of Informatics - http://www.39jaiio.org.ar - August 30th to September 3rd, 2010 - Buenos Aires, Argentina
+39 JAIIO - 39th Argentine Conference of Informatics - https://www.39jaiio.org.ar - August 30th to September 3rd, 2010 - Buenos Aires, Argentina
 
 Since 1961, SADIO (Argentine Society for Informatics) organizes JAIIO (Argentine Conference of Informatics). JAIIO is one of the most relevant events for the national and regional IT sector, with participants from both industry and academia.
 
@@ -6,7 +6,7 @@ JAIIO is organized as a series of thematic symposia including topics such as sof
 
 After many years, JAIIO returns to the city of Buenos Aires.
 
-ASSE 2010 - 11th ARGENTINE SYMPOSIUM ON SOFTWARE ENGINEERING – http://www.39jaiio.org.ar/ASSE/ - September 2nd and 3rd, 2010 - Buenos Aires, Argentina
+ASSE 2010 - 11th ARGENTINE SYMPOSIUM ON SOFTWARE ENGINEERING ï¿½https:///www.39jaiio.org.ar/ASSE/ - September 2nd and 3rd, 2010 - Buenos Aires, Argentina
 
 The 11th Argentine Symposium on Software Engineering (ASSE 2010) will bring together researchers, developers, and practitioners to discuss new ideas, problems and experiences in the field of Software Engineering. ASSE 2010 will be part of the 39th Argentine Conference on Informatics (JAIIO 2010). ASSE 2010 seeks original works in the wide spectrum of Software Engineering, from academic research to industrial and business applications with significant impact and lessons learned from application development. The symposium will feature invited talks, paper and poster sessions, and panels presenting both mature work and new ideas in research and applications.
 
@@ -45,7 +45,7 @@ For research papers (full or short) we invite submissions describing original re
 -Legal, Social and Ethical Issues
 -Database Technology
  
-For experience reports we are inviting practitioners to present new advances or insights in software engineering methods, practices or tools. A contribution should consist of a brief explanation of the method, practice, or tool in question, a description of the context and particulars in which you have experience, the results you’ve achieved, and the lessons you and your organization have learned relative to this method, practice or tool, its applicability, its effectiveness, or insights on how to further improve it. In particular, the content must be practical and relevant, and be presented in a well-documented and thorough manner.
+For experience reports we are inviting practitioners to present new advances or insights in software engineering methods, practices or tools. A contribution should consist of a brief explanation of the method, practice, or tool in question, a description of the context and particulars in which you have experience, the results youï¿½ve achieved, and the lessons you and your organization have learned relative to this method, practice or tool, its applicability, its effectiveness, or insights on how to further improve it. In particular, the content must be practical and relevant, and be presented in a well-documented and thorough manner.
  
 All papers must be written in English, Spanish or Portuguese. They will be reviewed by an international Program Committee, which will be composed of members from both Industry and Academia, so that research papers and experience reports can be evaluated by experts in the subject.
 
@@ -59,7 +59,7 @@ IMPORTANT DATES:
 -Final version (camera ready) deadline: June 28th, 2010
 
 SUBMISSION GUIDELINES
-The versions submitted for review must be uploaded in .PDF format. The submission system will be opened for contributions shortly. The format for the camera-ready copy will be in Springer format, which can be found at http://www.springer.de/comp/lncs/authors.html. The correct reception of a submission will be acknowledged immediately to the contact author.
+The versions submitted for review must be uploaded in .PDF format. The submission system will be opened for contributions shortly. The format for the camera-ready copy will be in Springer format, which can be found at https://www.springer.de/comp/lncs/authors.html. The correct reception of a submission will be acknowledged immediately to the contact author.
 
 Full research papers, short papers and experience reports: Submission must follow the following format: they must be written in English, Spanish or Portuguese, up to 15 pages for full papers, 6 pages for short papers and 10 pages for experience reports, 11 points font, times, A4 (210 x 297 millimeters) paper, including name, affiliation and address of the author/s, figures and references. Papers should also include keywords and an abstract of no more than 200 words.
 
@@ -71,9 +71,9 @@ CHAIRS
 -Claudia Pons, CONICET and UNLP, La Plata, Argentina - Contact email: cpons@info.unlp.edu.ar
 
 COMMITTEE
--Silvia Teresita Acuña (Universidad Autónoma de Madrid, España)
--Gabriela Arevalo (LIFIA, Facultad de Informática, UNLP, Argentina)
--Maria Cecilia Bastarrica (Depto de Ciencias de la Computación, Universidad de Chile)
+-Silvia Teresita Acuï¿½a (Universidad Autï¿½noma de Madrid, Espaï¿½a)
+-Gabriela Arevalo (LIFIA, Facultad de Informï¿½tica, UNLP, Argentina)
+-Maria Cecilia Bastarrica (Depto de Ciencias de la Computaciï¿½n, Universidad de Chile)
 -Alejandro Bianchi (Liveware)
 -Eduardo Bonelli (UNQ, ITBA, Argentina)
 -Victor Braberman (FCEyN, UBA, Argentina)
@@ -81,28 +81,28 @@ COMMITTEE
 -Alejandra Cechich (GIISCo, UNComa, Argentina)
 -Omar Chiotti (Conicet, UTN Santa Fe, Argentina)
 -Emilce Chiricola (Siemens)
--Juan José Cukier (Pragma Consultores)
--Pedro R. D'Argenio (FaMAF, Universidad Nacional de Córdoba)
--Elsa Estévez (UNS, Argentina)
--Andrés Flores Mir (GIISCo, UNComa, Argentina)
+-Juan Josï¿½ Cukier (Pragma Consultores)
+-Pedro R. D'Argenio (FaMAF, Universidad Nacional de Cï¿½rdoba)
+-Elsa Estï¿½vez (UNS, Argentina)
+-Andrï¿½s Flores Mir (GIISCo, UNComa, Argentina)
 -Marcelo Frias (FCEyN, UBA, Argentina)
 -Juan Gabardini (AgilAr, UBA)
 -Carlos Garcia Garino (ITIC & Universidad Nacional de Cuyo, Argentina)
 -Silvio Gonnet (Conicet, INGAR, UTN Santa Fe, Argentina)
--María Paula González (Conicet, UNS, Argentina)
--Silvia Gordillo (LIFIA, Facultad de Informática, UNLP, Argentina)
--Nicolás Kicillof (FCEyN, UBA, Argentina)
--Raúl Martínez (RMyA and UBA)
+-Marï¿½a Paula Gonzï¿½lez (Conicet, UNS, Argentina)
+-Silvia Gordillo (LIFIA, Facultad de Informï¿½tica, UNLP, Argentina)
+-Nicolï¿½s Kicillof (FCEyN, UBA, Argentina)
+-Raï¿½l Martï¿½nez (RMyA and UBA)
 -Pablo Michelis (Intel)
--Germán Montejano (UNSL, Argentina)
+-Germï¿½n Montejano (UNSL, Argentina)
 -Luis Olsina (UNLa Pampa, Argentina)
--Ernesto Pimentel (Universidad de Málaga, España)
+-Ernesto Pimentel (Universidad de Mï¿½laga, Espaï¿½a)
 -Daniel Riesco (UNSL, Argentina)
 -Diego Rubio (Motorola and UTN-FRC)
 -Alvaro Ruiz de Mendarzoqueta (Motorola and UTN-FRC)
 -Alvaro Soria (ISISTAN, UNCPBA, Argentina)
--Sebastián Uchitel (FCEyN, UBA, Argentina)
--Antonio Vallecillo (Universidad de Málaga, España)
+-Sebastiï¿½n Uchitel (FCEyN, UBA, Argentina)
+-Antonio Vallecillo (Universidad de Mï¿½laga, Espaï¿½a)
 -Alejandro Zunino (ISISTAN, UNCPBA, Argentina)
  
 CONTACT

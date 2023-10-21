@@ -1,58 +1,58 @@
-Disculpe si recibe este e-mail en más de una oportunidad.
+Disculpe si recibe este e-mail en mï¿½s de una oportunidad.
 
-39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMÁTICA - www.39jaiio.org.ar
-30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autónoma de Buenos Aires
+39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMï¿½TICA - www.39jaiio.org.ar
+30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autï¿½noma de Buenos Aires
 
-SADIO, la Sociedad Argentina de Informática organiza desde hace 38 años las JAIIO (Jornadas Argentinas de Informática) integrando trabajos, investigaciones y actividades bajo un mismo evento. Las JAIIO constituyen uno de los eventos más importantes del sector informático nacional y regional, con presentaciones y exposiciones provenientes tanto de la academia como de la industria.
+SADIO, la Sociedad Argentina de Informï¿½tica organiza desde hace 38 aï¿½os las JAIIO (Jornadas Argentinas de Informï¿½tica) integrando trabajos, investigaciones y actividades bajo un mismo evento. Las JAIIO constituyen uno de los eventos mï¿½s importantes del sector informï¿½tico nacional y regional, con presentaciones y exposiciones provenientes tanto de la academia como de la industria.
 
-La organización de las JAIIO contempla un conjunto de simposios separados por área temática, entre las que se incluyen: ingeniería de software, inteligencia artificial, tecnología, agroinformática, ‘high-performance computing’, informática industrial, software libre, derecho, salud, sociedad de la información, y un concurso de trabajos estudiantiles. Luego de varios años, las JAIIO vuelven a tener sede en la Ciudad de Buenos Aires.
+La organizaciï¿½n de las JAIIO contempla un conjunto de simposios separados por ï¿½rea temï¿½tica, entre las que se incluyen: ingenierï¿½a de software, inteligencia artificial, tecnologï¿½a, agroinformï¿½tica, ï¿½high-performance computingï¿½, informï¿½tica industrial, software libre, derecho, salud, sociedad de la informaciï¿½n, y un concurso de trabajos estudiantiles. Luego de varios aï¿½os, las JAIIO vuelven a tener sede en la Ciudad de Buenos Aires.
 
-JII 2010 - 7º JORNADAS DE INFORMÁTICA INDUSTRIAL - http://www.39jaiio.org.ar/JII/
+JII 2010 - 7ï¿½ JORNADAS DE INFORMï¿½TICA INDUSTRIAhttps://p://www.39jaiio.org.ar/JII/
 
-Los esfuerzos en investigación y avances tecnológicos en diversas áreas han permitido desarrollar conocimientos y herramientas de gran importancia y amplio uso en el ámbito de la producción, resultando en aumentos en los volúmenes de producción, reducción de costos, optimización de procesos, mejoras de calidad, introducción de procesos ecológicos, etc. Esto se ha dado en conjunto con la aplicación de diversas ramas de la informática a dichos procesos de producción de bienes y servicios, y ha generado un incremento de profesionales e investigadores fuertemente capacitados en las áreas de la Informática y de los Procesos Industriales.
+Los esfuerzos en investigaciï¿½n y avances tecnolï¿½gicos en diversas ï¿½reas han permitido desarrollar conocimientos y herramientas de gran importancia y amplio uso en el ï¿½mbito de la producciï¿½n, resultando en aumentos en los volï¿½menes de producciï¿½n, reducciï¿½n de costos, optimizaciï¿½n de procesos, mejoras de calidad, introducciï¿½n de procesos ecolï¿½gicos, etc. Esto se ha dado en conjunto con la aplicaciï¿½n de diversas ramas de la informï¿½tica a dichos procesos de producciï¿½n de bienes y servicios, y ha generado un incremento de profesionales e investigadores fuertemente capacitados en las ï¿½reas de la Informï¿½tica y de los Procesos Industriales.
  
-Las 7º Jornadas de Informática Industrial JII 2010 proveen un ámbito de vinculación y discusión para investigadores, profesionales, estudiantes y usuarios idóneos en el área de Informática Industrial, con el propósito de facilitar la profundización y la integración de sus conocimientos. En esta edición la temática del simposio es el desarrollo de modelos y aplicaciones de tecnologías de la información y sistemas en:
- -Cadenas productivas: principalmente aquellas donde se presenten aplicaciones, proyectos, soluciones, productos y servicios de valor agregado utilizando sistemas de información.
- -Procesos Industriales: simulación computacional, tecnología de imágenes, electrónica y telecomunicaciones vinculadas a desarrollos de métodos y procesos asociados a la producción.
- -Actividades relacionadas con cualquiera de las áreas mencionadas proveyendo conocimiento de base o aplicado.
+Las 7ï¿½ Jornadas de Informï¿½tica Industrial JII 2010 proveen un ï¿½mbito de vinculaciï¿½n y discusiï¿½n para investigadores, profesionales, estudiantes y usuarios idï¿½neos en el ï¿½rea de Informï¿½tica Industrial, con el propï¿½sito de facilitar la profundizaciï¿½n y la integraciï¿½n de sus conocimientos. En esta ediciï¿½n la temï¿½tica del simposio es el desarrollo de modelos y aplicaciones de tecnologï¿½as de la informaciï¿½n y sistemas en:
+ -Cadenas productivas: principalmente aquellas donde se presenten aplicaciones, proyectos, soluciones, productos y servicios de valor agregado utilizando sistemas de informaciï¿½n.
+ -Procesos Industriales: simulaciï¿½n computacional, tecnologï¿½a de imï¿½genes, electrï¿½nica y telecomunicaciones vinculadas a desarrollos de mï¿½todos y procesos asociados a la producciï¿½n.
+ -Actividades relacionadas con cualquiera de las ï¿½reas mencionadas proveyendo conocimiento de base o aplicado.
  
-TEMAS DE INTERÉS
-JII 2010 invita a presentar trabajos que reporten resultados de investigación y experiencias relevantes en el área de Informática Industrial. Se espera de este modo que los participantes intercambien ideas, experiencias y resultados relacionados con sus actividades profesionales y de investigación en sesiones de presentación de trabajos y paneles de discusión. Se priorizarán aquellas contribuciones dirigidas a obtener un impacto positivo sobre el proceso productivo/industrial al que se aplican, ya sea en la reducción de costos, mejoras de procesos, como así también en la formación de recursos humanos.
+TEMAS DE INTERï¿½S
+JII 2010 invita a presentar trabajos que reporten resultados de investigaciï¿½n y experiencias relevantes en el ï¿½rea de Informï¿½tica Industrial. Se espera de este modo que los participantes intercambien ideas, experiencias y resultados relacionados con sus actividades profesionales y de investigaciï¿½n en sesiones de presentaciï¿½n de trabajos y paneles de discusiï¿½n. Se priorizarï¿½n aquellas contribuciones dirigidas a obtener un impacto positivo sobre el proceso productivo/industrial al que se aplican, ya sea en la reducciï¿½n de costos, mejoras de procesos, como asï¿½ tambiï¿½n en la formaciï¿½n de recursos humanos.
 
-Las temáticas pertinentes para estas jornadas serán:
+Las temï¿½ticas pertinentes para estas jornadas serï¿½n:
  -Sistemas de soporte de decisiones.
- -Monitoreo y control de la producción.
- -Automatización.
- -Sistemas complejos y modelización.
- -Sistemas y plataformas de información específicos.
+ -Monitoreo y control de la producciï¿½n.
+ -Automatizaciï¿½n.
+ -Sistemas complejos y modelizaciï¿½n.
+ -Sistemas y plataformas de informaciï¿½n especï¿½ficos.
  -Arquitecturas en aplicaciones industriales.
  -Sistemas de Tiempo real y Sistemas Transaccionales.
  -Redes industriales.
- -Planificación, supervisión, control y optimización de procesos.
- -Simulación computacional de procesos.
+ -Planificaciï¿½n, supervisiï¿½n, control y optimizaciï¿½n de procesos.
+ -Simulaciï¿½n computacional de procesos.
  -Control de calidad.
  -Mejora de la productividad en entornos industriales.
- -Logística.
+ -Logï¿½stica.
  
 FECHAS IMPORTANTES 
- -03 de Mayo 2010: Cierre de Recepción de Trabajos.
- -14 de Junio 2010: Notificación de Trabajos Aceptados.
- -28 de Junio 2010: Recepción de Trabajos “Camera Ready” e Inscripción de un autor por Trabajo.
+ -03 de Mayo 2010: Cierre de Recepciï¿½n de Trabajos.
+ -14 de Junio 2010: Notificaciï¿½n de Trabajos Aceptados.
+ -28 de Junio 2010: Recepciï¿½n de Trabajos ï¿½Camera Readyï¿½ e Inscripciï¿½n de un autor por Trabajo.
  
-ENVÍO DE TRABAJOS
-Los autores están invitados a remitir contribuciones con el enfoque y los temas ya mencionados, en castellano o inglés, que se adecuen al formato LNCS (http://www.springer.de/comp/lncs/authors.html).
+ENVï¿½O DE TRABAJOS
+Los autores estï¿½n invitados a remitir contribuciones con el enfoque y los temas ya mencionados, en castellano o inglï¿½s, que se adecuen al formato LNhttps://p://www.springer.de/comp/lncs/authors.html).
 
-Los trabajos no deberán exceder las 15 páginas, incluyendo todas las tablas, figuras y referencias y deben ser remitidos en formato PDF. Las contribuciones serán cuidadosamente revisadas en base a su originalidad, aporte, calidad técnica, y claridad. Todos los trabajos serán evaluados por los miembros del Comité de Programa. Los trabajos enviados no deberán haber sido publicados previamente, ni estar en proceso de revisión en otra conferencia, simposio o revista.
+Los trabajos no deberï¿½n exceder las 15 pï¿½ginas, incluyendo todas las tablas, figuras y referencias y deben ser remitidos en formato PDF. Las contribuciones serï¿½n cuidadosamente revisadas en base a su originalidad, aporte, calidad tï¿½cnica, y claridad. Todos los trabajos serï¿½n evaluados por los miembros del Comitï¿½ de Programa. Los trabajos enviados no deberï¿½n haber sido publicados previamente, ni estar en proceso de revisiï¿½n en otra conferencia, simposio o revista.
 
-Las instrucciones detalladas para la presentación de trabajos serán publicadas a la brevedad en el sitio web del simposio (http://www.39jaiio.org.ar/JII/
+Las instrucciones detalladas para la presentaciï¿½n de trabajos serï¿½n publicadas a la brevedad en el sitio web del simposhttps://p://www.39jaiio.org.ar/JII/
 
-Al menos uno de los autores de los trabajos aprobados deberá estar registrado en la conferencia con anterioridad a la fecha limite para la presentación definitiva de trabajos (camera ready) a fin de que el mismo sea considerado para su publicación.
+Al menos uno de los autores de los trabajos aprobados deberï¿½ estar registrado en la conferencia con anterioridad a la fecha limite para la presentaciï¿½n definitiva de trabajos (camera ready) a fin de que el mismo sea considerado para su publicaciï¿½n.
  
 CHAIRS DEL SIMPOSIO
  - Dr. Federico Casanova (UNCPBA-CONICET, Argentina)
  - Dr. Gustavo Boroni (UNCPBA-CONICET, Argentina)
   
-COMITÉ DE PROGRAMA
+COMITï¿½ DE PROGRAMA
  - Dr. Alejandro Clausse (CNEA-CONICET, UNCPBA, Argentina)
  - Dr. Elias Todorovich (UNCPBA, Argentina)
  - Dr. Enrique Salomone (INGAR-CONICET, Argentina)
@@ -66,7 +66,7 @@ COMITÉ DE PROGRAMA
  - Dr. Marcelo Venere (CNEA, UNCPBA, Argentina)
  - Dra. Mariana Del Fresno (UNCPBA, Argentina)
  - Dr. Mario Barbaglia (CONICET, Argentina)
- - Dr. Martín Marchetta (CEAL-UNC, Argentina)
+ - Dr. Martï¿½n Marchetta (CEAL-UNC, Argentina)
  - Dr. Omar Chiotti (INGAR-CONICET, UTN, Argentina)
  - Dr. Pablo Lotito (CONICET, UNCPBA, Argentina)
  - Dr. Ricardo Rivas (CESTI-UBA, Argentina)

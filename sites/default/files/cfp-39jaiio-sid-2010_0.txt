@@ -1,25 +1,25 @@
-39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMçTICA - www.39jaiio.org.ar
-30 de Agosto al 3 de Septiembre de 2010 - Ciudad Aut—noma de Buenos Aires
+39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMï¿½TICA - www.39jaiio.org.ar
+30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autï¿½noma de Buenos Aires
 
-SADIO, la Sociedad Argentina de Inform‡tica e Investigaci—n Operativa organiza desde hace 38 a–os las JAIIO (Jornadas Argentinas de Inform‡tica e Investigaci—n Operativa) integrando trabajos, investigaciones y actividades bajo un mismo evento. Las JAIIO constituyen uno de los eventos m‡s importantes del sector inform‡tico nacional y regional, con presentaciones y exposiciones provenientes tanto de la academia como de la industria.
+SADIO, la Sociedad Argentina de Informï¿½tica e Investigaciï¿½n Operativa organiza desde hace 38 aï¿½os las JAIIO (Jornadas Argentinas de Informï¿½tica e Investigaciï¿½n Operativa) integrando trabajos, investigaciones y actividades bajo un mismo evento. Las JAIIO constituyen uno de los eventos mï¿½s importantes del sector informï¿½tico nacional y regional, con presentaciones y exposiciones provenientes tanto de la academia como de la industria.
 
-La organizaci—n de las JAIIO contempla un conjunto de simposios separados por ‡rea tem‡tica, entre las que se incluyen: ingenier’a de software, inteligencia artificial, tecnolog’a, agroinform‡tica, Ôhigh-performance computingÕ, inform‡tica industrial, software libre, derecho, salud, sociedad de la informaci—n, y un concurso de trabajos estudiantiles. Luego de varios a–os, las JAIIO vuelven a tener sede en la Ciudad de Buenos Aires.
+La organizaciï¿½n de las JAIIO contempla un conjunto de simposios separados por ï¿½rea temï¿½tica, entre las que se incluyen: ingenierï¿½a de software, inteligencia artificial, tecnologï¿½a, agroinformï¿½tica, ï¿½high-performance computingï¿½, informï¿½tica industrial, software libre, derecho, salud, sociedad de la informaciï¿½n, y un concurso de trabajos estudiantiles. Luego de varios aï¿½os, las JAIIO vuelven a tener sede en la Ciudad de Buenos Aires.
 
-SID 2010 - SIMPOSIO ARGENTINO DE INFORMçTICA Y DERECHO Ð http://www.39jaiio.org.ar/SID/   30 y 31 de Agosto de 2010
+SID 2010 - SIMPOSIO ARGENTINO DE INFORMï¿½TICA Y DERECHO https:////www.39jaiio.org.ar/SID/   30 y 31 de Agosto de 2010
 
-Mucho tiempo ha pasado desde 1961, en que se iniciaron las JAIIO. El mundo fue cambiando y la presencia de la tecnolog’a en general y de la inform‡tica en particular se fue incorporando en la vida de amplios segmentos sociales.
-En este devenir de las JAIIO, en el 2001 nace el Primer Simposio Argentino de Inform‡tica y Derecho (SID), en cuyo seno se empieza a discutir, en la Argentina, la incipiente pero necesaria relaci—n entre la inform‡tica y el derecho.
-Mucho se ha avanzado desde entonces en la relaci—n entre Derecho e Inform‡tica, pero son cada vez m‡s las cuestiones que, en raz—n del desarrollo tecnol—gico, la realidad nos propone y es cada vez m‡s necesaria la bœsqueda de la excelencia, la creatividad, y el esfuerzo compartido para avanzar en un œnico y superior sentido: el mejoramiento de la sociedad. De ah’ la permanente actualidad, vigencia y crecimiento del SID.
-Con el mismo esp’ritu pionero del primer d’a, la comunidad acadŽmico-cient’fica de "Inform‡tica y Derecho" de LatinoamŽrica, se reœne en Buenos Aires, en torno al SID 2010, para compartir, aprender, debatir y proponer.
+Mucho tiempo ha pasado desde 1961, en que se iniciaron las JAIIO. El mundo fue cambiando y la presencia de la tecnologï¿½a en general y de la informï¿½tica en particular se fue incorporando en la vida de amplios segmentos sociales.
+En este devenir de las JAIIO, en el 2001 nace el Primer Simposio Argentino de Informï¿½tica y Derecho (SID), en cuyo seno se empieza a discutir, en la Argentina, la incipiente pero necesaria relaciï¿½n entre la informï¿½tica y el derecho.
+Mucho se ha avanzado desde entonces en la relaciï¿½n entre Derecho e Informï¿½tica, pero son cada vez mï¿½s las cuestiones que, en razï¿½n del desarrollo tecnolï¿½gico, la realidad nos propone y es cada vez mï¿½s necesaria la bï¿½squeda de la excelencia, la creatividad, y el esfuerzo compartido para avanzar en un ï¿½nico y superior sentido: el mejoramiento de la sociedad. De ahï¿½ la permanente actualidad, vigencia y crecimiento del SID.
+Con el mismo espï¿½ritu pionero del primer dï¿½a, la comunidad acadï¿½mico-cientï¿½fica de "Informï¿½tica y Derecho" de Latinoamï¿½rica, se reï¿½ne en Buenos Aires, en torno al SID 2010, para compartir, aprender, debatir y proponer.
 
 CHAIRS DEL SIMPOSIO 
- -Prof. Abog. Noem’ Olivera, GECSI, Facultad de Ciencias Jur’dicas y Sociales, Universidad Nacional de La Plata, Argentina
- -Prof. Dr. Aires JosŽ Rover, Universidade Federal de Santa Catarina, Brasil
+ -Prof. Abog. Noemï¿½ Olivera, GECSI, Facultad de Ciencias Jurï¿½dicas y Sociales, Universidad Nacional de La Plata, Argentina
+ -Prof. Dr. Aires Josï¿½ Rover, Universidade Federal de Santa Catarina, Brasil
  
-COMITƒ ACADƒMICO DEL SIMPOSIO
- -A’da Noblia   (AEU, Uruguay)                  
+COMITï¿½ ACADï¿½MICO DEL SIMPOSIO
+ -Aï¿½da Noblia   (AEU, Uruguay)                  
  -Ana Haydee Di Iorio (Fasta, Argentina)
- -Araceli N. Proto (CIC Ð FI.UBA, Argentina)
+ -Araceli N. Proto (CIC ï¿½ FI.UBA, Argentina)
  -Ariel Vercelli (UNQ, Argentina)
  -Bibiana Luz Clara (Fasta, Argentina)
  -Carlos E. Bisso (UNLP, Argentina)
@@ -27,73 +27,73 @@ COMITƒ ACADƒMICO DEL SIMPOSIO
  -Carola Canelo (Universidad de Chile, Chile)
  -Clara Smith  (UNLP, Argentina)             
  -Claudio Augusto Delrieux (UNS, Argentina)
- -Erick Iriarte Ahon (ALFA-REDI, Perœ)
+ -Erick Iriarte Ahon (ALFA-REDI, Perï¿½)
  -Fernando Barrio (UNRN, Argentina)
- -Fernando Galindo (Universidad de Zaragoza, Espa–a)
- -Fernando Greco (Ministerio Pœblico de la Provincia de Buenos Aires)
+ -Fernando Galindo (Universidad de Zaragoza, Espaï¿½a)
+ -Fernando Greco (Ministerio Pï¿½blico de la Provincia de Buenos Aires)
  -Gustavo Presman (USAL, Argentina)
- -Horacio Fern‡ndez Delpech (Presidente ADIAR, Argentina)
- -Hugo Cesar Hoeschl (IJURIS, Florian—polis, SC Ð Brasil)
- -JosŽ Miguel Busquets (Universidad de la Repœblica, Uruguay)
+ -Horacio Fernï¿½ndez Delpech (Presidente ADIAR, Argentina)
+ -Hugo Cesar Hoeschl (IJURIS, Florianï¿½polis, SC ï¿½ Brasil)
+ -Josï¿½ Miguel Busquets (Universidad de la Repï¿½blica, Uruguay)
  -Juan Carlos Ponz (UNLP-CALP, Argentina)
- -Leopoldo Sebasti‡n G—mez (Poder Judicial NeuquŽn, Argentina)
+ -Leopoldo Sebastiï¿½n Gï¿½mez (Poder Judicial Neuquï¿½n, Argentina)
  -Marcelo Riquert (UNMdP, Argentina)
- -Mar’a de las Nieves Cenicacelaya (UNLP, Argentina)
- -Mar’a Florencia Franchini (UNLP, Argentina)
- -Mar’a Laura Spina  (UNL, Argentina)    
+ -Marï¿½a de las Nieves Cenicacelaya (UNLP, Argentina)
+ -Marï¿½a Florencia Franchini (UNLP, Argentina)
+ -Marï¿½a Laura Spina  (UNL, Argentina)    
  -Nora Chaponick (INFOLEG, Argentina)
  -Orides Mezzaroba (Universidade Federal de Santa Catarina, Brasil)
- -Ram—n Brenna (UBA, Argentina)
+ -Ramï¿½n Brenna (UBA, Argentina)
  -Rita Gajate (UNLP, Argentina)
- -Ricardo Sebasti‡n Piana (UNLP, Argentina)
+ -Ricardo Sebastiï¿½n Piana (UNLP, Argentina)
  -Roberto N. Bugallo (UBA-UNCPBA-UNLP)
  -Tania Cristina D'Agostini Bueno (Universidade Federal de Santa, Catarina, Brasil)
 
 
 CALL FOR PAPERS SID 2010
-El ComitŽ AcadŽmico del Simposio Argentino de Inform‡tica y Derecho convoca a los autores interesados a presentar sus trabajos, en las siguientes modalidades:
- -Investigaciones que contengan aportes novedosos y debidamente sustentados y que no estŽn siendo presentados en otras conferencias. (1)
- -Prestaciones de casos reales que demuestren impactos significativos, positivos o no, en la gesti—n inform‡tica del derecho.
+El Comitï¿½ Acadï¿½mico del Simposio Argentino de Informï¿½tica y Derecho convoca a los autores interesados a presentar sus trabajos, en las siguientes modalidades:
+ -Investigaciones que contengan aportes novedosos y debidamente sustentados y que no estï¿½n siendo presentados en otras conferencias. (1)
+ -Prestaciones de casos reales que demuestren impactos significativos, positivos o no, en la gestiï¿½n informï¿½tica del derecho.
 
-En ambas modalidades se deber‡ hacer hincapiŽ en la generaci—n y transmisi—n de conocimiento que pueda ser apropiado por otros.
-(1) En caso que el trabajo sea af’n a m‡s de un simposio de las 39 JAIIO, presentarlo indicando los simposios a los que considera puede ajustarse para su evaluaci—n conjunta.
+En ambas modalidades se deberï¿½ hacer hincapiï¿½ en la generaciï¿½n y transmisiï¿½n de conocimiento que pueda ser apropiado por otros.
+(1) En caso que el trabajo sea afï¿½n a mï¿½s de un simposio de las 39 JAIIO, presentarlo indicando los simposios a los que considera puede ajustarse para su evaluaciï¿½n conjunta.
  
-TEMçTICAS DE LOS TRABAJOS
-Los trabajos a presentar deben estar directamente relacionados con, por lo menos, alguna de las siguientes tem‡ticas, sean trabajos disciplinares de Derecho o Inform‡tica o  interdisciplinarios:
- -El Derecho en la Sociedad de la Informaci—n.
- -El Derecho Inform‡tico.
+TEMï¿½TICAS DE LOS TRABAJOS
+Los trabajos a presentar deben estar directamente relacionados con, por lo menos, alguna de las siguientes temï¿½ticas, sean trabajos disciplinares de Derecho o Informï¿½tica o  interdisciplinarios:
+ -El Derecho en la Sociedad de la Informaciï¿½n.
+ -El Derecho Informï¿½tico.
  - La privacidad en entornos digitales.
- -La propiedad intelectual en la Sociedad de la Informaci—n.
+ -La propiedad intelectual en la Sociedad de la Informaciï¿½n.
  -Teletrabajo.
- -Comercio electr—nico.
- -Derechos del Consumidor de productos y/o servicios inform‡ticos.
- -Correo electr—nico.
+ -Comercio electrï¿½nico.
+ -Derechos del Consumidor de productos y/o servicios informï¿½ticos.
+ -Correo electrï¿½nico.
  -Firma Digital.
- -Factura electr—nica.
+ -Factura electrï¿½nica.
  -E-banking: Modelos, problemas, operatorias, seguridad.
- -Delitos Inform‡ticos.
- -Pericias inform‡ticas.
- -Jurisdicci—n y competencia en la red.
- -Resoluci—n de conflictos en el entorno electr—nico.
- -Gobierno electr—nico.
- -Democracia electr—nica.
+ -Delitos Informï¿½ticos.
+ -Pericias informï¿½ticas.
+ -Jurisdicciï¿½n y competencia en la red.
+ -Resoluciï¿½n de conflictos en el entorno electrï¿½nico.
+ -Gobierno electrï¿½nico.
+ -Democracia electrï¿½nica.
  -Redes sociales.
  -Archivos digitales.
- -Inform‡tica jur’dica.
- -Seguridad inform‡tica.
- -Ontolog’a aplicada al derecho.
+ -Informï¿½tica jurï¿½dica.
+ -Seguridad informï¿½tica.
+ -Ontologï¿½a aplicada al derecho.
  -Inteligencia Artificial y Derecho.
  
-PRESENTACIîN DE LOS TRABAJOS
- -Las instrucciones detalladas para la presentaci—n de trabajos ser‡n publicadas a la brevedad en el sitio web del simposio (http://www.39jaiio.org.ar/SID/)
- -Los autores deber‡n indicar si consideran que sus trabajos pueden ser compartidos con otros simposios.
- -Los autores de trabajos aprobados podr‡n ser invitados a exponer los mismos durante el desarrollo del Simposio.
- -Los trabajos deber‡n tener un m‡ximo de 15 p‡ginas en papel A4 y deben incluir un abstract de hasta 200 palabras, en espa–ol o portuguŽs y en inglŽs El formato de los trabajos es .pdf, cuya plantilla puede descargarse de http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 . Se recomienda muy especialmente respetar el formato especificado.
- -Los art’culos deber‡n estar escritos en: castellano, portuguŽs o inglŽs.
- -Al menos uno de los autores de los trabajos aprobados deber‡ estar registrado en la conferencia con anterioridad a la fecha limite para la presentaci—n definitiva de trabajos (camera ready) a fin de que el mismo sea considerado para su publicaci—n.
+PRESENTACIï¿½N DE LOS TRABAJOS
+ -Las instrucciones detalladas para la presentaciï¿½n de trabajos serï¿½n publicadas a la brevedad en el sitio web del simposhttps://p://www.39jaiio.org.ar/SID/)
+ -Los autores deberï¿½n indicar si consideran que sus trabajos pueden ser compartidos con otros simposios.
+ -Los autores de trabajos aprobados podrï¿½n ser invitados a exponer los mismos durante el desarrollo del Simposio.
+ -Los trabajos deberï¿½n tener un mï¿½ximo de 15 pï¿½ginas en papel A4 y deben incluir un abstract de hasta 200 palabras, en espaï¿½ol o portuguï¿½s y en inglï¿½s El formato de los trabajos es .pdf, cuya plantilla puede deshttps://e de http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 . Se recomienda muy especialmente respetar el formato especificado.
+ -Los artï¿½culos deberï¿½n estar escritos en: castellano, portuguï¿½s o inglï¿½s.
+ -Al menos uno de los autores de los trabajos aprobados deberï¿½ estar registrado en la conferencia con anterioridad a la fecha limite para la presentaciï¿½n definitiva de trabajos (camera ready) a fin de que el mismo sea considerado para su publicaciï¿½n.
  
 FECHAS IMPORTANTES
-Fecha l’mite para la recepci—n de trabajos: 03 de mayo de 2010
-Notificaci—n a los autores: 14 de junio de 2010
-Fecha l’mite para la presentaci—n definitiva de trabajos (camera ready): 28 de Junio 2010
+Fecha lï¿½mite para la recepciï¿½n de trabajos: 03 de mayo de 2010
+Notificaciï¿½n a los autores: 14 de junio de 2010
+Fecha lï¿½mite para la presentaciï¿½n definitiva de trabajos (camera ready): 28 de Junio 2010
 Inicio de las 39Jaiio: 30 de agosto

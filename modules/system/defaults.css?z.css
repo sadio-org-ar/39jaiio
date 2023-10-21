@@ -29,7 +29,7 @@ th {
 
 /*
 ** Markup free clearing
-** Details: http://www.positioniseverything.net/easyclearing.html
+** Details: https://www.positioniseverything.net/easyclearing.html
 */
 .clear-block:after {
   content: ".";
