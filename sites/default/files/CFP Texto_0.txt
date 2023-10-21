@@ -1,5 +1,5 @@
 39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMÁTICA
-https://www.39jaiio.org.ar/ 
+http://www.39jaiio.org.ar/ 
 
 30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autónoma de Buenos Aires
 SADIO, la Sociedad Argentina de Informática organiza desde hace 38 años las JAIIO (Jornadas Argentinas de Informática) integrando trabajos, investigaciones y actividades bajo un mismo evento. Las JAIIO constituyen uno de los eventos más importantes del sector informático nacional y regional, con presentaciones y exposiciones provenientes tanto de la academia como de la industria.
@@ -7,7 +7,7 @@ SADIO, la Sociedad Argentina de Informática organiza desde hace 38 años las JA
 La organización de las JAIIO contempla un conjunto de simposios separados por área temática, entre las que se incluyen: ingeniería de software, inteligencia artificial, tecnología, agroinformática, software libre, ‘high-performance computing’, informática industrial, derecho, salud, sociedad de la información, y un concurso de trabajos estudiantiles. Luego de varios años, las JAIIO vuelven a tener sede en la Ciudad de Buenos Aires.
 
 EST 2010 - CONCURSO DE TRABAJOS ESTUDIANTILES
-https://www.39jaiio.org.ar/EST/ 
+http://www.39jaiio.org.ar/EST/ 
 
 CALL FOR PAPERS
 El Concurso de Trabajos Estudiantiles se propone como un espacio especialmente dedicado a los estudiantes de grado y posgrado, para la difusión de la producción intelectual que realizan en el marco de sus carreras universitarias. A través de este encuentro se intenta fomentar la interacción con docentes, estudiantes e investigadores de la Argentina y otros países de América Latina.
@@ -73,7 +73,7 @@ Por cada trabajo se deberán entregar tres archivos PDF:
 Carátula, con el título del trabajo, los datos de los autores y los datos del director de tesina o proyecto (categorías Trabajo Final de Carrera de grado o posgrado) o profesor de la cátedra involucrada (categoría Trabajo de Cátedra-Trabajos de Posgrado).
 Contenido, constará del texto del trabajo completo con el título correspondiente (sin datos de los autores y directores). Este archivo será enviado a evaluación.
 Aval, del director de tesis, tesina o proyecto (Trabajos de Final de carrera de grado o posgrado) o del profesor de la asignatura involucrada (Trabajos de Cátedra-Trabajos de Posgrado).
-Las instrucciones detalladas para la presentación de trabajos se encuentran publicadas en el sitio web del simposio (https://www.39jaiio.org.ar/EST/)
+Las instrucciones detalladas para la presentación de trabajos se encuentran publicadas en el sitio web del simposio (http://www.39jaiio.org.ar/EST/)
 
 FORMATO DE LOS TRABAJOS
 Hoja A4 respetando márgenes izquierdo y derecho: 4,40cm y superior e inferior: 5,20cm
@@ -83,7 +83,7 @@ La extensión máxima de los trabajos presentados será:
 15 páginas apara Trabajos Finales de Carreras de Grado más 10 páginas como máximo en apéndices.
 15 páginas para Trabajos Finales de Carreras de Especialidad y Maestría más 10 páginas como máximo en apéndices.
 Los trabajos de todas las categorías deben incluir un resumen de no más de una página, dentro del límite de páginas permitidas.
-Para mayor precisión en el formato se sugiere el formato dado por https://www.springer.de/comp/lncs/authors.html
+Para mayor precisión en el formato se sugiere el formato dado por http://www.springer.de/comp/lncs/authors.html
 
 IDIOMA
 Se aceptarán trabajos en idioma español, inglés y portugués.

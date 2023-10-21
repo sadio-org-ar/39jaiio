@@ -1,5 +1,5 @@
-39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMï¿½TICA - www.39jaiio.org.ar
-30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autï¿½noma de Buenos Aires
+39 JAIIO - 39 JORNADAS ARGENTINAS DE INFORMÁTICA - www.39jaiio.org.ar
+30 de Agosto al 3 de Septiembre de 2010 - Ciudad Autónoma de Buenos Aires
 
 Since 1961, SADIO (Argentine Society for Informatics) organizes JAIIO (Argentine Conference of Informatics). JAIIO is one of the most relevant events for the national and regional IT sector, with participants from both industry and academia.
 
@@ -36,11 +36,11 @@ Suggested topics of interest include, but are not restricted to:
  -Country-wide Grid Initiatives
 
 INSTRUCTIONS FOR AUTHORS
-Submissions of short- and full-papers must be written in English, and prepared according to Springer's LNCS style (guidelines are available at: https://www.springer.de/comp/lncs/authors.html). 
+Submissions of short- and full-papers must be written in English, and prepared according to Springer's LNCS style (guidelines are available at: http://www.springer.de/comp/lncs/authors.html). 
 
 Papers must not have been previously published or submitted elsewhere. 
 
-All contributions should be submitted in Ghostview-readable Postscript or PDF formats.  Submissions will be handled electronically. Further detaills will be available at: https://www.39jaiio.org.ar/hpc.
+All contributions should be submitted in Ghostview-readable Postscript or PDF formats.  Submissions will be handled electronically. Further detaills will be available at: http://www.39jaiio.org.ar/hpc.
 
 The authors of accepted papers must guarantee that their paper will be presented at the symposium. At least one author of each accepted paper must be duly registered for the symposium in order for the paper to be scheduled in the papers session and to appear in the Symposium and 39 JAIIO proceedings.
 
@@ -51,7 +51,7 @@ SHORT PAPERS/EXTENDED ABSTARCTS
 Authors are invited to submit short papers (also called Extended Abstracts) for results that are too late to be submitted as regular full-length papers. Short papers must not exceed 4 pages. Short papers accepted for the program will appear in the proceedings (in short form - not expanded to full papers - and with Extended Abstract in the title) and be presented orally during the symposium (in suitably shorter speaking slots) as a regular part of the program.
 
 SYMPOSIUM INFORMATION
-Up-to-date information about the program and the symposium organization can be found at https://hpc2010.hpclatam.org
+Up-to-date information about the program and the symposium organization can be found at http://hpc2010.hpclatam.org
 
 IMPORTANT DATES
 Submission deadline: May, 3rd 2010
@@ -62,9 +62,9 @@ VENUE INFORMATION
 
 Buenos Aires is a wonderful place:
 
-Information in Wikipedia: https://en.wikipedia.org/wiki/Buenos_aires,
-Information in Wikitralvel: https://wikitravel.org/en/Buenos_Aires_(city)
-Official government website: https://www.buenosaires.gov.ar/
+Information in Wikipedia: http://en.wikipedia.org/wiki/Buenos_aires,
+Information in Wikitralvel: http://wikitravel.org/en/Buenos_Aires_(city)
+Official government website: http://www.buenosaires.gov.ar/
 
 PROGRAM COMMITEE (to be confirmed)
 CHAIRS
@@ -72,14 +72,14 @@ CHAIRS
  -Esteban Mocskos, Universidad de Buenos Aires
 
 COMMITE MEMBERS
- -Roberto Bevilacqua, Comisiï¿½n Nacional de Energia Atomica, Universidad de Buenos Aires, Universidad Nacional de San Martin
+ -Roberto Bevilacqua, Comisión Nacional de Energia Atomica, Universidad de Buenos Aires, Universidad Nacional de San Martin
  -Miguel Angel Cavaliere, Tenaris Siderca and Universidad de Buenos Aires
- -Adriï¿½n Cristal, Barcelona Supercomputing Center
+ -Adrián Cristal, Barcelona Supercomputing Center
  -Diego Crupnicoff, Mellanox Technologies
  -Carlos Garcia Garino, Universidad Nacional de Cuyo
- -Mariano Camilo Gonzï¿½lez Lebrero, Universidad de Buenos Aires
- -Gonzalo Hernï¿½ndez Oliva, Universidad de Chile
- -Mariano Camilo Gonzï¿½lez Lebrero, Universidad de Buenos Aires
+ -Mariano Camilo González Lebrero, Universidad de Buenos Aires
+ -Gonzalo Hernández Oliva, Universidad de Chile
+ -Mariano Camilo González Lebrero, Universidad de Buenos Aires
  -Dan Hirsch, Intel de Argentina
  -Marcos Martins, Petroleo Brasileiro S.A.
  -Patricia Paredes, Universidad Nacional de Cordoba
@@ -87,7 +87,7 @@ COMMITE MEMBERS
  -Thomas Sterling, Louisiana State University
  -Mario Storti, Universidad Nacional del Litoral
  -Patricia Tissera, IAFE - Universidad de Buenos Aires
- -Mariano Vï¿½zquez, Barcelona Supercomputing Center
+ -Mariano Vázquez, Barcelona Supercomputing Center
  -Ricardo Medel, Intel Argentina
 
 CONTACT INFORMATION
